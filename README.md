@@ -5,11 +5,7 @@
 Hours: 10:00-12:00, 13:00-14:30 + open Q&A
 
 **Location**:
-	James Hutton Institute
-
-	Aberdeen
-
-	Scotland
+	James Hutton Institute, Aberdeen, Scotland
 
 
 

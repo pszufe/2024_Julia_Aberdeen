@@ -2,11 +2,8 @@
 
 Przemysław Szufel
 
-- Simple Delimited Files
-- CSV
-- JSON
-- Microsoft Excel
-- Apache Arrow
+- Workflow of DataFrames
+- Importing other types: CSV, JSON, Microsoft Excel, Apache Arrow
 
 Notebooks:
 - [Data_Analysis_2024_Aberdeen.ipynb](Data_Analysis_2024_Aberdeen.ipynb)

@@ -31,7 +31,7 @@ This course does not require the participants to have prior detailed knowledge o
 <li> Basic data structures (dictionaries, tuples, matrices, structures)
 <ul>
 </td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td><a href="2_Working_with_Data_Sources/">2 Working with Data Sources</a><br>
+<tr><td>&nbsp;</td><td><a href="2_Working_with_Data/">2 Working with Data</a><br>
 <ul>
 <li> Simple Delimited Files, CSV, JSON, Microsoft Excel, Apache Arrow
 <li> Analytic workflow with data frames

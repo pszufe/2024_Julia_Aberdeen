@@ -1,0 +1,5410 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<bounds minlat="52.2033" minlon="20.9872" maxlat="52.2175" maxlon="21.0146"/>
+	<node id="26118472" lat="52.2188306" lon="21.0048306"/>
+	<node id="26118476" lat="52.2070162" lon="20.9990837"/>
+	<node id="26118477" lat="52.2035947" lon="21.0000328"/>
+	<node id="26118690" lat="52.2081667" lon="21.0077513">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26118695" lat="52.2181515" lon="21.0048682"/>
+	<node id="26118696" lat="52.2131206" lon="21.005989">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26195459" lat="52.212035" lon="21.0154181"/>
+	<node id="26195464" lat="52.2115824" lon="21.0127386"/>
+	<node id="27166998" lat="52.21717" lon="21.0105337"/>
+	<node id="27167002" lat="52.2171609" lon="21.0055559"/>
+	<node id="27167004" lat="52.217109" lon="21.0045965"/>
+	<node id="27167006" lat="52.2168607" lon="21.0005197"/>
+	<node id="27167008" lat="52.2168319" lon="20.9999811"/>
+	<node id="27167025" lat="52.2162061" lon="20.9869704"/>
+	<node id="27167029" lat="52.2160998" lon="20.9849644"/>
+	<node id="29274142" lat="52.2050812" lon="20.9859417">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="30901470" lat="52.2083794" lon="20.9870841">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="30901471" lat="52.2123612" lon="20.9884346"/>
+	<node id="30901474" lat="52.2128979" lon="20.9885049"/>
+	<node id="30901477" lat="52.2133701" lon="20.988472"/>
+	<node id="30901479" lat="52.2164922" lon="20.9881076">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="30901480" lat="52.2191255" lon="20.9893246">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="30902333" lat="52.2161792" lon="20.9880702">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31718064" lat="52.2016309" lon="21.0005826">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31718121" lat="52.2024041" lon="21.0050575"/>
+	<node id="31718161" lat="52.2066037" lon="21.0030437"/>
+	<node id="31718178" lat="52.2032686" lon="21.0100352">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31718227" lat="52.2051133" lon="21.0092326">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31718307" lat="52.2042195" lon="21.0042117"/>
+	<node id="31718347" lat="52.203696" lon="21.001237"/>
+	<node id="31803760" lat="52.205487" lon="21.0226498">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31803795" lat="52.2037668" lon="21.012869"/>
+	<node id="31884818" lat="52.2074994" lon="21.0080486">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31884821" lat="52.2059611" lon="20.9993486"/>
+	<node id="31884822" lat="52.2026249" lon="21.0063022"/>
+	<node id="31884830" lat="52.2044432" lon="21.0054838"/>
+	<node id="31884832" lat="52.2068308" lon="21.0043496"/>
+	<node id="31897793" lat="52.2051335" lon="21.0093492">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31897796" lat="52.2075807" lon="21.0083521">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31897800" lat="52.2131758" lon="21.0064281">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31897831" lat="52.2157392" lon="21.0057074"/>
+	<node id="31897838" lat="52.2032955" lon="21.0101885">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31897841" lat="52.2044575" lon="21.0096524"/>
+	<node id="31897844" lat="52.2174667" lon="21.0052089"/>
+	<node id="31897848" lat="52.2187066" lon="21.0050961"/>
+	<node id="31897859" lat="52.2053135" lon="21.0103759"/>
+	<node id="31906464" lat="52.2033055" lon="20.9997093">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="31906466" lat="52.2060297" lon="20.9990366"/>
+	<node id="31917328" lat="52.217227" lon="21.0116437"/>
+	<node id="31917329" lat="52.217286" lon="21.0102166"/>
+	<node id="31917331" lat="52.2172742" lon="21.0055406"/>
+	<node id="31917332" lat="52.2172165" lon="21.0045873"/>
+	<node id="31917333" lat="52.2170211" lon="21.0003276"/>
+	<node id="31917343" lat="52.2171889" lon="21.0158518"/>
+	<node id="31917344" lat="52.2170971" lon="21.0158651"/>
+	<node id="31917346" lat="52.217307" lon="21.0046242">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="31917349" lat="52.2170715" lon="21.0056802"/>
+	<node id="31917351" lat="52.2174608" lon="21.0082822"/>
+	<node id="31917352" lat="52.2171165" lon="21.0064863">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="GUS 07"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="709307"/>
+	</node>
+	<node id="31917354" lat="52.217464" lon="21.0085633"/>
+	<node id="31917357" lat="52.2174593" lon="21.0091782"/>
+	<node id="31917359" lat="52.2173409" lon="21.0119146"/>
+	<node id="31917362" lat="52.2172824" lon="21.0130177"/>
+	<node id="31917363" lat="52.2169753" lon="21.013153"/>
+	<node id="31917364" lat="52.2172734" lon="21.0131472"/>
+	<node id="31917366" lat="52.2172722" lon="21.0148923">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="31917367" lat="52.2168371" lon="21.014917">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="32024522" lat="52.2061828" lon="21.0006655"/>
+	<node id="32024525" lat="52.2095394" lon="21.0071952"/>
+	<node id="32024532" lat="52.2064287" lon="21.0020989"/>
+	<node id="32024535" lat="52.2040548" lon="21.0032386"/>
+	<node id="32024568" lat="52.2092714" lon="21.0053378"/>
+	<node id="32024572" lat="52.2093191" lon="21.0052217"/>
+	<node id="32024579" lat="52.2093234" lon="21.0050559"/>
+	<node id="32024600" lat="52.2088209" lon="21.001956"/>
+	<node id="32024604" lat="52.2086041" lon="21.0001107"/>
+	<node id="32024606" lat="52.2085609" lon="20.9999651"/>
+	<node id="32024609" lat="52.2080419" lon="20.9995472"/>
+	<node id="32024613" lat="52.2067676" lon="21.0001431"/>
+	<node id="32024618" lat="52.2062294" lon="21.0006133"/>
+	<node id="32024620" lat="52.2083225" lon="20.9996704"/>
+	<node id="32048667" lat="52.2172065" lon="20.9902061"/>
+	<node id="32048669" lat="52.2176025" lon="20.9935957"/>
+	<node id="32048673" lat="52.2173913" lon="20.9885758"/>
+	<node id="32049235" lat="52.2047687" lon="20.9862425">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="32049236" lat="52.2083582" lon="20.9874706">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="32049237" lat="52.2123405" lon="20.9888178"/>
+	<node id="32049238" lat="52.212927" lon="20.9889017"/>
+	<node id="32049364" lat="52.2102183" lon="20.9876789"/>
+	<node id="32049365" lat="52.2103967" lon="20.9877491">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="32049366" lat="52.2101452" lon="20.9880615"/>
+	<node id="32049368" lat="52.2101837" lon="20.9880724"/>
+	<node id="32049371" lat="52.2104521" lon="20.9867685"/>
+	<node id="32049372" lat="52.2103452" lon="20.985459"/>
+	<node id="32049379" lat="52.2105388" lon="20.9853405"/>
+	<node id="32126043" lat="52.206279" lon="21.0012623"/>
+	<node id="32126044" lat="52.2051302" lon="21.0017834">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="32126045" lat="52.2072812" lon="21.0068673"/>
+	<node id="32126046" lat="52.2070639" lon="21.0056129"/>
+	<node id="32126047" lat="52.2046675" lon="21.0067547"/>
+	<node id="32126048" lat="52.2048792" lon="21.00802"/>
+	<node id="32329827" lat="52.213389" lon="20.9888609"/>
+	<node id="32329828" lat="52.2141356" lon="20.9887896"/>
+	<node id="32329829" lat="52.216283" lon="20.990275">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="32329830" lat="52.2164644" lon="20.9903067">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="32329832" lat="52.2160279" lon="20.9900502"/>
+	<node id="32329833" lat="52.2190942" lon="20.9900988">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="32329837" lat="52.2139871" lon="20.9854465"/>
+	<node id="32329841" lat="52.2141155" lon="20.9883917"/>
+	<node id="32329842" lat="52.2163216" lon="20.9871607"/>
+	<node id="32573084" lat="52.2146322" lon="20.9887696"/>
+	<node id="32573085" lat="52.2149485" lon="20.9882875"/>
+	<node id="32599717" lat="52.2178449" lon="21.0130539"/>
+	<node id="32600274" lat="52.2093635" lon="20.9878044"/>
+	<node id="32600277" lat="52.2070968" lon="20.9990337"/>
+	<node id="32600279" lat="52.2074096" lon="20.9967134"/>
+	<node id="32600281" lat="52.2080111" lon="20.9938439"/>
+	<node id="32605669" lat="52.2052718" lon="20.986011">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="32605672" lat="52.2052316" lon="20.9864142">
+		<tag k="created_by" v="JOSM"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="32605676" lat="52.2012618" lon="20.9850471">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="32606514" lat="52.2183001" lon="20.9890036"/>
+	<node id="32606515" lat="52.2181319" lon="20.9900668"/>
+	<node id="32606518" lat="52.2185485" lon="20.9882017"/>
+	<node id="32607799" lat="52.2188484" lon="20.9999006"/>
+	<node id="32607802" lat="52.2170054" lon="20.9997615"/>
+	<node id="32677847" lat="52.2019813" lon="21.0135743"/>
+	<node id="32677864" lat="52.2092707" lon="21.0055454"/>
+	<node id="33182645" lat="52.2171796" lon="21.0023471"/>
+	<node id="33182647" lat="52.2179423" lon="21.0011852"/>
+	<node id="33182648" lat="52.2171901" lon="21.0011696"/>
+	<node id="33182649" lat="52.218202" lon="21.001203"/>
+	<node id="33199588" lat="52.2107784" lon="21.0131153"/>
+	<node id="33199595" lat="52.208616" lon="21.0141492">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="33199597" lat="52.2083351" lon="21.0125732">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="33199600" lat="52.2040866" lon="21.0146874">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="33199605" lat="52.206869" lon="21.0132597"/>
+	<node id="33199606" lat="52.2059109" lon="21.0137192"/>
+	<node id="33199614" lat="52.2057179" lon="21.0126401"/>
+	<node id="33199621" lat="52.2060553" lon="21.0124788"/>
+	<node id="33199624" lat="52.2056426" lon="21.0102141"/>
+	<node id="33199626" lat="52.2049644" lon="21.0106195"/>
+	<node id="33199631" lat="52.205344" lon="21.0127794"/>
+	<node id="33200047" lat="52.2051458" lon="21.0116581"/>
+	<node id="33200060" lat="52.2036732" lon="21.0123365"/>
+	<node id="33200061" lat="52.2036098" lon="21.0119762"/>
+	<node id="33200062" lat="52.2018256" lon="21.0126669"/>
+	<node id="33200128" lat="52.2039512" lon="21.0139175"/>
+	<node id="33200129" lat="52.2021592" lon="21.0145483"/>
+	<node id="33234545" lat="52.2050939" lon="21.0203495"/>
+	<node id="33234564" lat="52.2043693" lon="21.0162763"/>
+	<node id="33242040" lat="52.2170723" lon="21.0053382">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="33310081" lat="52.2091058" lon="21.0169314"/>
+	<node id="33310086" lat="52.2093906" lon="21.018532"/>
+	<node id="33310089" lat="52.2061933" lon="21.0153046"/>
+	<node id="33311855" lat="52.2034228" lon="21.0109127"/>
+	<node id="33311857" lat="52.2042223" lon="21.0106847"/>
+	<node id="33311858" lat="52.2041102" lon="21.0099731"/>
+	<node id="33311859" lat="52.2043331" lon="21.0113102"/>
+	<node id="33311862" lat="52.2040196" lon="21.0097318"/>
+	<node id="33311863" lat="52.2048432" lon="21.0093521"/>
+	<node id="33311865" lat="52.2071409" lon="21.0084812"/>
+	<node id="33311866" lat="52.2053562" lon="21.0092514"/>
+	<node id="33311867" lat="52.2067159" lon="21.0084747"/>
+	<node id="33311868" lat="52.2059024" lon="21.0088603"/>
+	<node id="33312074" lat="52.2038049" lon="21.0018443"/>
+	<node id="33629033" lat="52.2124097" lon="21.0173152"/>
+	<node id="33705073" lat="52.2151909" lon="21.0053604"/>
+	<node id="34464541" lat="52.2087947" lon="21.0011993"/>
+	<node id="34464543" lat="52.2064747" lon="21.0023432"/>
+	<node id="34469775" lat="52.2039518" lon="21.0098901"/>
+	<node id="34469776" lat="52.2047783" lon="21.0095116"/>
+	<node id="35215097" lat="52.2170336" lon="21.0153238"/>
+	<node id="35215099" lat="52.2171116" lon="21.0150962"/>
+	<node id="38432720" lat="52.2041755" lon="21.0097849"/>
+	<node id="38432721" lat="52.204927" lon="21.0082861"/>
+	<node id="43283732" lat="52.2065674" lon="20.9963264"/>
+	<node id="43283741" lat="52.2062398" lon="20.9963397"/>
+	<node id="43283742" lat="52.2060823" lon="20.996275"/>
+	<node id="43283748" lat="52.2061161" lon="20.996111">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="43283752" lat="52.206304" lon="20.9960625"/>
+	<node id="43283756" lat="52.2060095" lon="20.9987126"/>
+	<node id="43283761" lat="52.2059704" lon="20.9985439"/>
+	<node id="43283763" lat="52.2059172" lon="20.9984295"/>
+	<node id="43283768" lat="52.2057746" lon="20.9983107"/>
+	<node id="43283772" lat="52.205641" lon="20.9983518"/>
+	<node id="43283776" lat="52.2054966" lon="20.9984242"/>
+	<node id="43283780" lat="52.2053799" lon="20.9984859"/>
+	<node id="43283784" lat="52.2049996" lon="20.9983956"/>
+	<node id="43283795" lat="52.2055595" lon="20.9990843"/>
+	<node id="43283798" lat="52.2041608" lon="20.9980814"/>
+	<node id="43283801" lat="52.205335" lon="20.9960047"/>
+	<node id="43283806" lat="52.2044685" lon="20.9956959"/>
+	<node id="43283810" lat="52.2069919" lon="20.9965419"/>
+	<node id="43283811" lat="52.2068558" lon="20.996433">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="43283815" lat="52.2069163" lon="20.9965724"/>
+	<node id="43283819" lat="52.2065548" lon="20.9964505"/>
+	<node id="43283823" lat="52.2053196" lon="20.9958406"/>
+	<node id="43283831" lat="52.2044912" lon="20.9955385"/>
+	<node id="43283832" lat="52.2030789" lon="20.9960438"/>
+	<node id="43283836" lat="52.2018523" lon="20.9955819"/>
+	<node id="43283848" lat="52.2043488" lon="20.9965175"/>
+	<node id="43283853" lat="52.20288" lon="20.9974266"/>
+	<node id="43283857" lat="52.2017299" lon="20.9970459"/>
+	<node id="43283861" lat="52.20247" lon="20.9958131"/>
+	<node id="43283864" lat="52.2022756" lon="20.9971888"/>
+	<node id="43283865" lat="52.2036928" lon="20.9962761"/>
+	<node id="43283870" lat="52.2035088" lon="20.9976223"/>
+	<node id="43283875" lat="52.2041571" lon="20.9978826"/>
+	<node id="43283886" lat="52.2039834" lon="20.993672"/>
+	<node id="43283888" lat="52.203536" lon="20.9935026"/>
+	<node id="54091825" lat="52.2191766" lon="20.9883288"/>
+	<node id="54094009" lat="52.2183413" lon="20.9851577"/>
+	<node id="54094014" lat="52.2176462" lon="20.9862546"/>
+	<node id="54094018" lat="52.2172407" lon="20.9869146"/>
+	<node id="54094022" lat="52.2167123" lon="20.9878037"/>
+	<node id="54094037" lat="52.2189315" lon="20.9883242"/>
+	<node id="54094040" lat="52.2181327" lon="20.9879573"/>
+	<node id="54094042" lat="52.2178196" lon="20.9876668"/>
+	<node id="54094043" lat="52.2174605" lon="20.9872101">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="54094084" lat="52.2168495" lon="20.9860157"/>
+	<node id="54094087" lat="52.216753" lon="20.9856892"/>
+	<node id="54094104" lat="52.2172338" lon="20.9895627"/>
+	<node id="60860577" lat="52.2177906" lon="20.9997999"/>
+	<node id="60860578" lat="52.217987" lon="20.9956252"/>
+	<node id="60860579" lat="52.2171494" lon="20.9985046">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="60860582" lat="52.217821" lon="20.9985426"/>
+	<node id="60860583" lat="52.2168873" lon="20.9955646"/>
+	<node id="104994357" lat="52.2174731" lon="20.9886216">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="104994364" lat="52.2177039" lon="20.9875549"/>
+	<node id="213959073" lat="52.2105057" lon="20.9881841">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="213959230" lat="52.2105637" lon="20.9878073">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="213964607" lat="52.2149809" lon="21.0058789">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="248457778" lat="52.2183917" lon="20.9890458"/>
+	<node id="248457787" lat="52.2181136" lon="21.0042142"/>
+	<node id="248457790" lat="52.2182365" lon="20.9998279"/>
+	<node id="248457792" lat="52.2181548" lon="21.0028528"/>
+	<node id="248457795" lat="52.2173033" lon="21.0028292"/>
+	<node id="248557741" lat="52.2029066" lon="20.9852125">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="248591682" lat="52.2141052" lon="20.9881401"/>
+	<node id="248591683" lat="52.2152123" lon="20.9879972"/>
+	<node id="248591684" lat="52.2157881" lon="20.9879359"/>
+	<node id="248591685" lat="52.2159346" lon="20.9881384"/>
+	<node id="248591686" lat="52.2152139" lon="20.9882575"/>
+	<node id="252952259" lat="52.2039791" lon="21.0028163"/>
+	<node id="252952262" lat="52.2038425" lon="21.0020542"/>
+	<node id="253038668" lat="52.2060571" lon="20.9999498"/>
+	<node id="253902418" lat="52.2144873" lon="21.0055508"/>
+	<node id="254167364" lat="52.2110797" lon="21.0098802"/>
+	<node id="254167377" lat="52.2112689" lon="21.0109615"/>
+	<node id="254167379" lat="52.2115623" lon="21.0126242"/>
+	<node id="254167484" lat="52.2127934" lon="21.0065559"/>
+	<node id="254167517" lat="52.211946" lon="21.0068183"/>
+	<node id="254169115" lat="52.2121349" lon="21.0159784"/>
+	<node id="254169118" lat="52.2126166" lon="21.0177584">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="254172546" lat="52.2117151" lon="21.013515"/>
+	<node id="254173051" lat="52.2087953" lon="21.001784">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="254173054" lat="52.2097773" lon="21.002453">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Świętego Andrzeja Boboli 51"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="323551"/>
+	</node>
+	<node id="254336302" lat="52.2173828" lon="21.0104951"/>
+	<node id="254384582" lat="52.2145441" lon="21.0060127"/>
+	<node id="254451733" lat="52.2165268" lon="20.9943874"/>
+	<node id="254513584" lat="52.2145265" lon="21.0058344"/>
+	<node id="254513588" lat="52.2061135" lon="20.9993048">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="255443740" lat="52.2090084" lon="21.0163793"/>
+	<node id="255582375" lat="52.2140318" lon="20.9864663"/>
+	<node id="259644330" lat="52.2104224" lon="21.0060521"/>
+	<node id="264587521" lat="52.2103293" lon="21.0068887">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="264587527" lat="52.2103852" lon="21.0073068">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="mapillary" v="R_VW1YLlzUXT0S0rgzZhrw"/>
+		<tag k="survey:date" v="2017-03-05"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="266863919" lat="52.2024889" lon="21.0124035">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="266864003" lat="52.2168354" lon="21.014617">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="281910833" lat="52.2172572" lon="21.0082906"/>
+	<node id="282141253" lat="52.2178143" lon="21.0042195"/>
+	<node id="282141255" lat="52.2178537" lon="21.0028401"/>
+	<node id="301612696" lat="52.2172391" lon="21.0141368"/>
+	<node id="308117295" lat="52.2190292" lon="20.9893185">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="308197305" lat="52.2164906" lon="20.988641"/>
+	<node id="308197306" lat="52.2161808" lon="20.9888421"/>
+	<node id="308197307" lat="52.2162813" lon="20.9880367"/>
+	<node id="308767260" lat="52.2163575" lon="20.9880373"/>
+	<node id="308767262" lat="52.2156455" lon="20.9879443"/>
+	<node id="308767268" lat="52.2152029" lon="20.9879976"/>
+	<node id="308767316" lat="52.2144329" lon="20.9887619"/>
+	<node id="308767317" lat="52.2153632" lon="20.9892218"/>
+	<node id="308767319" lat="52.2156624" lon="20.9895657"/>
+	<node id="308767322" lat="52.2164234" lon="20.9894566"/>
+	<node id="308767323" lat="52.2150155" lon="20.98893"/>
+	<node id="308767325" lat="52.2147953" lon="20.9888158"/>
+	<node id="308816072" lat="52.2061934" lon="20.9990349">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="308816087" lat="52.2071051" lon="20.9988097"/>
+	<node id="308816092" lat="52.2060221" lon="20.9988517">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="308942622" lat="52.2173039" lon="20.9890435"/>
+	<node id="311764609" lat="52.2170359" lon="20.9864657"/>
+	<node id="311776996" lat="52.2172598" lon="20.9893078"/>
+	<node id="312053370" lat="52.2168752" lon="20.9883071"/>
+	<node id="312053527" lat="52.2174293" lon="20.9920646"/>
+	<node id="316628187" lat="52.2102614" lon="20.9868004"/>
+	<node id="316886382" lat="52.2172564" lon="21.0036688"/>
+	<node id="316886404" lat="52.2192774" lon="21.0050725"/>
+	<node id="316886411" lat="52.2195245" lon="21.0050739"/>
+	<node id="317319278" lat="52.2065978" lon="21.000275"/>
+	<node id="317319282" lat="52.206155" lon="21.0005099"/>
+	<node id="317829731" lat="52.2063587" lon="21.0004734"/>
+	<node id="318473087" lat="52.2085072" lon="20.9998795"/>
+	<node id="318473088" lat="52.2082064" lon="20.9995799"/>
+	<node id="319174280" lat="52.2105984" lon="21.0074807">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="334558973" lat="52.2061012" lon="21.0002085">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Rakowiecka-Sanktuarium 06"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="328606"/>
+	</node>
+	<node id="334559301" lat="52.2096081" lon="21.0197564">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="Rakowiecka 03"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="300203"/>
+	</node>
+	<node id="334559417" lat="52.2169051" lon="21.0138338">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="Metro Politechnika 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="operator" v="Zarząd Transportu Miejskiego w Warszawie"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="700601"/>
+	</node>
+	<node id="339977448" lat="52.2156929" lon="21.0057181"/>
+	<node id="339977465" lat="52.216837" lon="21.0053994"/>
+	<node id="339977467" lat="52.2172392" lon="21.0069617"/>
+	<node id="339977468" lat="52.2171668" lon="21.0076269"/>
+	<node id="339977470" lat="52.2165384" lon="21.005035">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="GUS 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="709301"/>
+	</node>
+	<node id="339977471" lat="52.2163416" lon="21.005569">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="GUS 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="709302"/>
+	</node>
+	<node id="339977472" lat="52.2170038" lon="21.0045892">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="339977475" lat="52.2173795" lon="21.0055257">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="343300135" lat="52.2125102" lon="21.0175679"/>
+	<node id="343300728" lat="52.2091701" lon="21.0172933"/>
+	<node id="369512808" lat="52.2047706" lon="21.0185086">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="369521797" lat="52.2061689" lon="21.0151708">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="396294387" lat="52.2018032" lon="21.0005358">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="415948007" lat="52.2162158" lon="20.9878052">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="crossing_ref" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="415948008" lat="52.2164156" lon="20.9877886">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="crossing_ref" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="415948009" lat="52.2160222" lon="20.9881244">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="415948010" lat="52.216127" lon="20.9901698">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="crossing_ref" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="415948011" lat="52.2165976" lon="20.9903019">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="crossing_ref" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="415948012" lat="52.2166653" lon="20.9881926">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="415948013" lat="52.21651" lon="20.9884326"/>
+	<node id="415948014" lat="52.2163515" lon="20.9874748"/>
+	<node id="415948015" lat="52.2162303" lon="20.9875758"/>
+	<node id="415948016" lat="52.2162261" lon="20.987406"/>
+	<node id="415948017" lat="52.2161533" lon="20.9883699"/>
+	<node id="415948022" lat="52.2171249" lon="20.9997632"/>
+	<node id="448040989" lat="52.2164405" lon="20.9899025">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="crossing_ref" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="448040990" lat="52.2162458" lon="20.9899337">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="crossing_ref" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="453007393" lat="52.2179932" lon="21.0130672"/>
+	<node id="560634846" lat="52.2102252" lon="20.9874669">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="560634847" lat="52.2104142" lon="20.9875236">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="560634848" lat="52.2100207" lon="20.9876205">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="560634851" lat="52.2099766" lon="20.9880044">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="573211457" lat="52.2175487" lon="21.0130099"/>
+	<node id="573211463" lat="52.2172506" lon="21.0146133">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="573211465" lat="52.2170159" lon="21.0149037"/>
+	<node id="619221867" lat="52.2104547" lon="20.9867221"/>
+	<node id="715755543" lat="52.2173254" lon="20.9911514"/>
+	<node id="715755566" lat="52.2171299" lon="20.9902182">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="715755580" lat="52.2152075" lon="20.9890738"/>
+	<node id="715755582" lat="52.216127" lon="20.9903228">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="715755583" lat="52.2161089" lon="20.9880985"/>
+	<node id="715755584" lat="52.2172187" lon="20.9899293"/>
+	<node id="715755594" lat="52.2165102" lon="20.9882314"/>
+	<node id="715755595" lat="52.2161992" lon="20.9904983"/>
+	<node id="715755629" lat="52.2163235" lon="20.990834"/>
+	<node id="715755650" lat="52.2136703" lon="20.9884289"/>
+	<node id="715755657" lat="52.2164481" lon="20.989078"/>
+	<node id="715755682" lat="52.2172448" lon="20.9894542"/>
+	<node id="715755696" lat="52.217215" lon="20.9903217">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="715755698" lat="52.2155103" lon="20.9893782"/>
+	<node id="715791357" lat="52.2093328" lon="20.9879843"/>
+	<node id="824593724" lat="52.2039991" lon="21.0029278"/>
+	<node id="824593736" lat="52.2039732" lon="21.0027831"/>
+	<node id="824593743" lat="52.2038519" lon="21.0021065"/>
+	<node id="824611844" lat="52.2039127" lon="21.0024443">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="824611847" lat="52.2035176" lon="21.0002416">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="824611857" lat="52.2041987" lon="21.0041014">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="824619324" lat="52.2059743" lon="20.9994488"/>
+	<node id="824619327" lat="52.2060253" lon="20.9991762"/>
+	<node id="824655828" lat="52.2089046" lon="21.0024727"/>
+	<node id="824655836" lat="52.2066753" lon="21.0034651"/>
+	<node id="927494210" lat="52.2104704" lon="21.0067081">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1052381770" lat="52.2190058" lon="20.9901196">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1144523131" lat="52.2173652" lon="21.0079074"/>
+	<node id="1144523146" lat="52.217342" lon="21.006726"/>
+	<node id="1159785537" lat="52.2120037" lon="21.0149185"/>
+	<node id="1159785540" lat="52.2126872" lon="21.0176563">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1159785544" lat="52.2124755" lon="21.0171217"/>
+	<node id="1159785548" lat="52.2122345" lon="21.0159342"/>
+	<node id="1159785549" lat="52.2118067" lon="21.0141155"/>
+	<node id="1159785552" lat="52.2123627" lon="21.0166655"/>
+	<node id="1159785554" lat="52.2122793" lon="21.0167769"/>
+	<node id="1159785557" lat="52.212793" lon="21.0178495">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="1159785583" lat="52.2125978" lon="21.0174868"/>
+	<node id="1283403744" lat="52.2099312" lon="21.0033283"/>
+	<node id="1293741204" lat="52.2160968" lon="20.9902668">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="crossing_ref" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1306452188" lat="52.2173821" lon="21.0129892">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1307044998" lat="52.2112" lon="20.9884268"/>
+	<node id="1317127847" lat="52.2041303" lon="21.0042571">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1317127848" lat="52.2076413" lon="21.0086772">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1317127849" lat="52.207355" lon="21.00813">
+		<tag k="button_operated" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="mapillary" v="oB23k2vlS6xVBHSmRaJMQg"/>
+		<tag k="survey:date" v="2016-10-26"/>
+		<tag k="tactile_paving" v="yes"/>
+		<tag k="traffic_signals:sound" v="yes"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="1317127851" lat="52.2051701" lon="21.0095682">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="1317127853" lat="52.2049839" lon="21.0094201">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="1317127856" lat="52.2052467" lon="21.0091706">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="mapillary" v="NIiTooQDpDF1BbNtN4dQaQ"/>
+		<tag k="survey:date" v="2018-09-11"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="1317127857" lat="52.2043198" lon="21.0041682">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="1317127859" lat="52.2052709" lon="21.007826"/>
+	<node id="1317127860" lat="52.2068938" lon="21.0085656"/>
+	<node id="1317127864" lat="52.203444" lon="21.0101151">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1317127866" lat="52.2072305" lon="21.0068912">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1317127867" lat="52.207401" lon="21.0084078">
+		<tag k="button_operated" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+		<tag k="traffic_signals:sound" v="yes"/>
+	</node>
+	<node id="1317127874" lat="52.2052636" lon="21.0092897">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1317127876" lat="52.2077602" lon="21.0082928"/>
+	<node id="1317127878" lat="52.204242" lon="21.0043394">
+		<tag k="crossing" v="uncontrolled;marked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1317127880" lat="52.2034204" lon="21.0099756">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1317127881" lat="52.203331" lon="21.0103912">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1317127883" lat="52.2050713" lon="21.0089991">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="1317133131" lat="52.2091026" lon="21.0037014"/>
+	<node id="1317133183" lat="52.209507" lon="21.006988">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="no"/>
+	</node>
+	<node id="1327239330" lat="52.2045628" lon="21.0173329"/>
+	<node id="1327268334" lat="52.2044431" lon="21.0166722"/>
+	<node id="1327268339" lat="52.2034433" lon="21.01103"/>
+	<node id="1332421928" lat="52.2061931" lon="21.0022161"/>
+	<node id="1332421939" lat="52.2051948" lon="21.0026782"/>
+	<node id="1332421940" lat="52.2060376" lon="21.0013727"/>
+	<node id="1342658052" lat="52.216137" lon="21.0051307"/>
+	<node id="1342658067" lat="52.2157833" lon="21.0052172"/>
+	<node id="1342658069" lat="52.2169773" lon="21.0052662">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="1342658079" lat="52.2174763" lon="21.0048522">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="1342658082" lat="52.2169251" lon="21.0053174"/>
+	<node id="1342664406" lat="52.2167906" lon="21.0049685"/>
+	<node id="1344373825" lat="52.2201345" lon="21.0050247">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="1344373827" lat="52.2201378" lon="21.004768">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="1344621799" lat="52.2173874" lon="21.0051589"/>
+	<node id="1344621802" lat="52.2171364" lon="21.004939"/>
+	<node id="1344621805" lat="52.2170131" lon="21.0050046"/>
+	<node id="1344674220" lat="52.2171707" lon="21.0130374"/>
+	<node id="1344674231" lat="52.2171214" lon="21.0093267"/>
+	<node id="1344674263" lat="52.217389" lon="21.00543">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1344674267" lat="52.2173953" lon="21.0092531"/>
+	<node id="1344674283" lat="52.21702" lon="21.0055337">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1344674287" lat="52.2174566" lon="21.0074893"/>
+	<node id="1344674289" lat="52.2169783" lon="21.0046826">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1344674318" lat="52.2170563" lon="21.0119178"/>
+	<node id="1344674324" lat="52.21735" lon="21.0097962"/>
+	<node id="1344674332" lat="52.2172453" lon="21.0120211"/>
+	<node id="1354683558" lat="52.2201144" lon="21.0050269"/>
+	<node id="1354683579" lat="52.2201012" lon="21.0047693"/>
+	<node id="1393410880" lat="52.2057351" lon="20.9983837"/>
+	<node id="1393410884" lat="52.2057941" lon="20.998422"/>
+	<node id="1393410886" lat="52.2058559" lon="20.9984909"/>
+	<node id="1393410887" lat="52.2058899" lon="20.9985513"/>
+	<node id="1393410889" lat="52.2059167" lon="20.9986183"/>
+	<node id="1393410891" lat="52.2059411" lon="20.9987467">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="1393410893" lat="52.2059489" lon="20.9988581">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1393410894" lat="52.2059488" lon="20.9990379"/>
+	<node id="1417004375" lat="52.210492" lon="21.0068554"/>
+	<node id="1417004377" lat="52.2105455" lon="21.0072611"/>
+	<node id="1417004378" lat="52.2105568" lon="21.0066717">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="image" v="http://storage6.openstreetcam.org/files/photo/2017/10/31/lth/960663_a6e93_42.jpg"/>
+		<tag k="survey:date" v="2017-10-31"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="1417004381" lat="52.2105776" lon="21.006835"/>
+	<node id="1417004382" lat="52.2106361" lon="21.007238"/>
+	<node id="1417004383" lat="52.2106698" lon="21.0074461">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1417004384" lat="52.2107461" lon="21.00803"/>
+	<node id="1417004385" lat="52.2108066" lon="21.0067643">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="1417004388" lat="52.2108402" lon="21.0085372"/>
+	<node id="1417004390" lat="52.2145194" lon="21.0057726"/>
+	<node id="1417004409" lat="52.2173262" lon="21.0050016"/>
+	<node id="1417004411" lat="52.2173475" lon="21.0054436">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1437918399" lat="52.216726" lon="20.9980029"/>
+	<node id="1445855899" lat="52.2084572" lon="20.9919113"/>
+	<node id="1445855907" lat="52.2119483" lon="20.9886949"/>
+	<node id="1447938357" lat="52.2171918" lon="21.0061281">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="GUS 05"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="709305"/>
+	</node>
+	<node id="1447938359" lat="52.2173155" lon="21.0062425">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="GUS 06"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="709306"/>
+	</node>
+	<node id="1565354129" lat="52.2083192" lon="21.0124773"/>
+	<node id="1582412266" lat="52.2043533" lon="21.0144968"/>
+	<node id="1582412268" lat="52.2046027" lon="21.0143397"/>
+	<node id="1582895975" lat="52.2051782" lon="21.0208385"/>
+	<node id="1619167251" lat="52.2184726" lon="20.9849522"/>
+	<node id="1692838654" lat="52.2107537" lon="21.008069"/>
+	<node id="1692983204" lat="52.2113847" lon="21.0116252"/>
+	<node id="1707748844" lat="52.2086946" lon="20.9908832"/>
+	<node id="1776516260" lat="52.2057165" lon="20.9990567">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1776516263" lat="52.2057567" lon="20.9994282">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="1795627560" lat="52.2070969" lon="20.9989327"/>
+	<node id="1795627563" lat="52.2070969" lon="20.9988864"/>
+	<node id="1811172315" lat="52.2173925" lon="21.0042203">
+		<tag k="noexit" v="yes"/>
+	</node>
+	<node id="1855345844" lat="52.2174071" lon="21.0098959"/>
+	<node id="1877430874" lat="52.2061205" lon="20.9990335">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1891312365" lat="52.2096406" lon="21.0014916">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="1980975004" lat="52.2021383" lon="21.0004391">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Kulskiego 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="323702"/>
+	</node>
+	<node id="2054435253" lat="52.2185668" lon="20.9901"/>
+	<node id="2075909978" lat="52.207619" lon="21.0079955"/>
+	<node id="2075909979" lat="52.2076678" lon="21.0079727"/>
+	<node id="2231337967" lat="52.2094274" lon="21.0187403">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2231337974" lat="52.208645" lon="21.0143035">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2231337981" lat="52.209134" lon="21.0170905">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2231337986" lat="52.208294" lon="21.012347">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="traffic_signals:sound" v="yes"/>
+	</node>
+	<node id="2231337990" lat="52.2083632" lon="21.0127301">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="source" v="Bing"/>
+	</node>
+	<node id="2290909154" lat="52.2049934" lon="21.0105371"/>
+	<node id="2290909167" lat="52.2053893" lon="21.0128037"/>
+	<node id="2290909169" lat="52.2059003" lon="21.0112558"/>
+	<node id="2291715294" lat="52.2058867" lon="21.01118"/>
+	<node id="2291715296" lat="52.2060924" lon="21.0123612"/>
+	<node id="2305347309" lat="52.2062801" lon="21.0152604">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2311070489" lat="52.2056353" lon="21.0126825">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2311070495" lat="52.20521" lon="21.0104287">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2311070518" lat="52.2051751" lon="21.0118138"/>
+	<node id="2311070528" lat="52.2051228" lon="21.0115356"/>
+	<node id="2311070533" lat="52.2058162" lon="21.0125896">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2324020436" lat="52.208481" lon="21.0076225"/>
+	<node id="2324032132" lat="52.2103261" lon="21.0073233">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="mapillary" v="R_VW1YLlzUXT0S0rgzZhrw"/>
+		<tag k="survey:date" v="2017-03-05"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="2324032133" lat="52.2106171" lon="21.0075453">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2324032138" lat="52.2102741" lon="21.0069027">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2324032144" lat="52.2106836" lon="21.0075213">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2324053586" lat="52.216822" lon="21.0012794"/>
+	<node id="2333000284" lat="52.205043" lon="21.0141216"/>
+	<node id="2333062410" lat="52.2060831" lon="21.0146882"/>
+	<node id="2333147849" lat="52.2037541" lon="21.0139976"/>
+	<node id="2333147850" lat="52.2038792" lon="21.0139474"/>
+	<node id="2333159914" lat="52.2041244" lon="21.0149024">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2333166488" lat="52.2050602" lon="21.0201531">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2333175691" lat="52.2041948" lon="21.0146047">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2333189675" lat="52.2058184" lon="21.0137623">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2333189684" lat="52.2058875" lon="21.0135763">
+		<tag k="crossing" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2339275915" lat="52.2049627" lon="21.0093022">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="mapillary" v="qBeVrdNNNscAXXBRd4ASMA"/>
+		<tag k="survey:date" v="2018-09-10"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="2339275939" lat="52.207437" lon="21.0077066">
+		<tag k="button_operated" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+		<tag k="traffic_signals:sound" v="yes"/>
+	</node>
+	<node id="2339278835" lat="52.2092815" lon="21.0076783"/>
+	<node id="2339280169" lat="52.2110257" lon="21.0095619">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2368177523" lat="52.2054651" lon="21.0225049">
+		<tag k="highway" v="crossing"/>
+		<tag k="mapillary" v="dywRmQGUGtIZXUBtZ40U2w"/>
+		<tag k="survey:date" v="2018-10-15"/>
+		<tag k="tactile_paving" v="yes"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="2392213343" lat="52.217341" lon="21.0088825"/>
+	<node id="2392213344" lat="52.217232" lon="21.0090373"/>
+	<node id="2392213345" lat="52.2173624" lon="21.0075207"/>
+	<node id="2392213346" lat="52.2172591" lon="21.0077722"/>
+	<node id="2392213347" lat="52.2173566" lon="21.0084428"/>
+	<node id="2393648047" lat="52.2199459" lon="21.0047784">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2393648062" lat="52.2199395" lon="21.0050448">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2397035801" lat="52.213766" lon="21.0062495"/>
+	<node id="2405949456" lat="52.216126" lon="21.0056281"/>
+	<node id="2405949473" lat="52.2168981" lon="21.004873"/>
+	<node id="2405949479" lat="52.2169389" lon="21.0054491">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="2405949485" lat="52.217034" lon="21.012339"/>
+	<node id="2405949488" lat="52.2170252" lon="21.0046714">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2405949494" lat="52.2170588" lon="21.005198"/>
+	<node id="2405949496" lat="52.2170778" lon="21.0048074"/>
+	<node id="2405949500" lat="52.2171053" lon="21.0054012"/>
+	<node id="2405949502" lat="52.2171156" lon="21.0050628"/>
+	<node id="2405949505" lat="52.2171148" lon="21.0099887"/>
+	<node id="2405949506" lat="52.2171314" lon="21.011905"/>
+	<node id="2405949508" lat="52.2171475" lon="21.0052755"/>
+	<node id="2405949520" lat="52.2171618" lon="21.0073285"/>
+	<node id="2405949522" lat="52.2171709" lon="21.0082522"/>
+	<node id="2405949534" lat="52.2172399" lon="21.013748"/>
+	<node id="2405949536" lat="52.2172564" lon="21.0129219"/>
+	<node id="2405949538" lat="52.217251" lon="21.0052159"/>
+	<node id="2405949540" lat="52.2172537" lon="21.0126568"/>
+	<node id="2405949542" lat="52.2172886" lon="21.0050973"/>
+	<node id="2405949544" lat="52.2172955" lon="21.0053143"/>
+	<node id="2405949546" lat="52.2173114" lon="21.0096091"/>
+	<node id="2405949551" lat="52.217335" lon="21.0130075"/>
+	<node id="2405949571" lat="52.2174154" lon="21.0053024"/>
+	<node id="2405949575" lat="52.2174439" lon="21.0067244"/>
+	<node id="2405949583" lat="52.2176174" lon="21.00516"/>
+	<node id="2405949587" lat="52.2177825" lon="21.0051369"/>
+	<node id="2405949589" lat="52.217827" lon="21.0048491"/>
+	<node id="2405949597" lat="52.2179685" lon="21.0048541"/>
+	<node id="2405949599" lat="52.2181478" lon="21.0051227"/>
+	<node id="2441002836" lat="52.2120698" lon="21.0067796"/>
+	<node id="2441002842" lat="52.2126203" lon="21.0066076"/>
+	<node id="2445047716" lat="52.210503" lon="20.9859148"/>
+	<node id="2451584695" lat="52.2050392" lon="20.9863438">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2454720156" lat="52.2114482" lon="21.0127978">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2454720159" lat="52.211539" lon="21.0124935">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2454727850" lat="52.2118446" lon="21.0142553"/>
+	<node id="2454727857" lat="52.2121681" lon="21.0161472">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2454727859" lat="52.2122667" lon="21.0160956"/>
+	<node id="2454732223" lat="52.2116091" lon="21.0129008">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2492113720" lat="52.21879" lon="20.9998969">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2508775276" lat="52.2063693" lon="21.0031653"/>
+	<node id="2508842654" lat="52.2029134" lon="21.0142424"/>
+	<node id="2508842656" lat="52.2029983" lon="21.014233"/>
+	<node id="2508849822" lat="52.2035133" lon="21.0109994">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2508849823" lat="52.2037093" lon="21.01289">
+		<tag k="crossing" v="unmarked"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="no"/>
+	</node>
+	<node id="2508849824" lat="52.2037425" lon="21.0123077"/>
+	<node id="2508849825" lat="52.2038911" lon="21.0139424"/>
+	<node id="2508858691" lat="52.2029698" lon="21.0131946"/>
+	<node id="2508858699" lat="52.2035526" lon="21.0120023">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="no"/>
+	</node>
+	<node id="2508858703" lat="52.2037263" lon="21.0126388">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2508858711" lat="52.203877" lon="21.0134954"/>
+	<node id="2508871371" lat="52.2045177" lon="21.0170801">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2508871375" lat="52.2059323" lon="21.0138397">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2508871376" lat="52.2059984" lon="21.0136828">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2508889699" lat="52.2057401" lon="21.012767">
+		<tag k="crossing" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2508889711" lat="52.2084886" lon="21.0142099">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2508889713" lat="52.2085915" lon="21.0140123">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2508889716" lat="52.2087533" lon="21.0140826">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2509494933" lat="52.2018883" lon="21.012642">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2509494934" lat="52.2020456" lon="21.0135496">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2509494935" lat="52.2022134" lon="21.0145263">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2511478165" lat="52.2104605" lon="21.0066328">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2511478168" lat="52.2105453" lon="21.0065989">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="image" v="http://storage6.openstreetcam.org/files/photo/2017/10/31/lth/960663_a6e93_42.jpg"/>
+		<tag k="survey:date" v="2017-10-31"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="2511480276" lat="52.2093778" lon="21.0062045"/>
+	<node id="2511487062" lat="52.2059888" lon="20.9995504">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2511487065" lat="52.2062177" lon="21.0012857">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2511487066" lat="52.2063732" lon="21.0021276">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2511487073" lat="52.2065416" lon="21.003074">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2511487078" lat="52.2067721" lon="21.0043776">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2511487080" lat="52.2070023" lon="21.0056435">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2511495308" lat="52.206297" lon="21.0005314"/>
+	<node id="2511495313" lat="52.2065573" lon="21.0028089">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2519566020" lat="52.2123215" lon="21.0062589"/>
+	<node id="2636579858" lat="52.2034808" lon="21.0112427">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2636585392" lat="52.2040483" lon="21.0144693">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2636589942" lat="52.2024934" lon="21.0050342">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2636589943" lat="52.2027184" lon="21.0062938">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2636603712" lat="52.2025585" lon="21.0050033"/>
+	<node id="2636603714" lat="52.2027815" lon="21.006268"/>
+	<node id="2636603715" lat="52.2035382" lon="21.0001305"/>
+	<node id="2636661827" lat="52.2068087" lon="21.0042266">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2636661829" lat="52.207163" lon="21.0061848">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="2636666482" lat="52.2053093" lon="20.9984942"/>
+	<node id="2636666492" lat="52.2057057" lon="20.9983172"/>
+	<node id="2636666501" lat="52.2058533" lon="20.998348"/>
+	<node id="2636745574" lat="52.2082409" lon="21.0126176">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2636786228" lat="52.2052876" lon="21.0102248">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2636809270" lat="52.2035916" lon="21.0109651"/>
+	<node id="2636809278" lat="52.2041165" lon="21.0100276">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="no"/>
+	</node>
+	<node id="2636809292" lat="52.2050583" lon="21.011703">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2636842619" lat="52.2041438" lon="21.0031948"/>
+	<node id="2636842624" lat="52.2043512" lon="21.0055254"/>
+	<node id="2636842626" lat="52.2045259" lon="21.0054444"/>
+	<node id="2636842632" lat="52.2047617" lon="21.0067099"/>
+	<node id="2636842636" lat="52.204981" lon="21.0079683">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2636888248" lat="52.2106027" lon="21.0070063"/>
+	<node id="2636888250" lat="52.2106101" lon="21.0070603"/>
+	<node id="2636929797" lat="52.2121236" lon="21.0158992"/>
+	<node id="2636929799" lat="52.2123285" lon="21.0169799"/>
+	<node id="2636929800" lat="52.2123452" lon="21.0170491"/>
+	<node id="2636929801" lat="52.2124356" lon="21.016987"/>
+	<node id="2636963893" lat="52.2081235" lon="20.9995481"/>
+	<node id="2636963905" lat="52.208826" lon="21.0015494"/>
+	<node id="2636963907" lat="52.2088207" lon="21.0014192"/>
+	<node id="2639067624" lat="52.2038627" lon="21.0134145"/>
+	<node id="2639483672" lat="52.2048725" lon="21.0191007"/>
+	<node id="2639720942" lat="52.203991" lon="21.014144"/>
+	<node id="2639964219" lat="52.2042729" lon="20.9964912"/>
+	<node id="2639964221" lat="52.2045062" lon="20.9954406">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="no"/>
+	</node>
+	<node id="2639964227" lat="52.2057176" lon="20.995997"/>
+	<node id="2639964232" lat="52.2062219" lon="20.9960631"/>
+	<node id="2639964236" lat="52.2063733" lon="20.9961335"/>
+	<node id="2639964239" lat="52.2064454" lon="20.9962469"/>
+	<node id="2639964240" lat="52.2064982" lon="20.9962972"/>
+	<node id="2639964241" lat="52.2067359" lon="20.9965212"/>
+	<node id="2639964243" lat="52.206948" lon="20.9964782"/>
+	<node id="2639964245" lat="52.2071525" lon="20.9984719">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2639964250" lat="52.207288" lon="20.9966624">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2639964256" lat="52.2074402" lon="20.9965238">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2639964260" lat="52.2077093" lon="20.9951768"/>
+	<node id="2656045367" lat="52.2189918" lon="21.0048193"/>
+	<node id="2677938007" lat="52.2177293" lon="20.9956104"/>
+	<node id="2677951804" lat="52.2190092" lon="20.9901189"/>
+	<node id="2684219694" lat="52.2027429" lon="20.9998701"/>
+	<node id="2684219695" lat="52.2051037" lon="20.9996108"/>
+	<node id="2684219696" lat="52.2064862" lon="20.9992111"/>
+	<node id="2764101640" lat="52.2170899" lon="21.0055141">
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2764101652" lat="52.2190191" lon="21.0050813"/>
+	<node id="2765918139" lat="52.2048301" lon="21.007727">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2765953332" lat="52.2059107" lon="21.0090041"/>
+	<node id="2765977106" lat="52.2077266" lon="21.0128474"/>
+	<node id="2768575949" lat="52.2018397" lon="20.997058"/>
+	<node id="2768575951" lat="52.2019477" lon="20.9970807"/>
+	<node id="2768575959" lat="52.2026232" lon="20.9973256"/>
+	<node id="2768575968" lat="52.2035006" lon="20.9976758"/>
+	<node id="2768575980" lat="52.2050468" lon="20.9980489"/>
+	<node id="2768575996" lat="52.2052717" lon="20.996455"/>
+	<node id="2768576004" lat="52.2055361" lon="20.9984044"/>
+	<node id="2768605656" lat="52.205013" lon="20.9992358"/>
+	<node id="2768605657" lat="52.2057403" lon="20.9983068"/>
+	<node id="2768605658" lat="52.2058162" lon="20.9983247"/>
+	<node id="2768605666" lat="52.2063552" lon="20.999033"/>
+	<node id="2768623115" lat="52.204678" lon="20.994255">
+		<tag k="barrier" v="lift_gate"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="foot" v="yes"/>
+	</node>
+	<node id="2768664991" lat="52.2115665" lon="20.9885669"/>
+	<node id="2768664995" lat="52.2120811" lon="20.9887365"/>
+	<node id="2768665002" lat="52.2126288" lon="20.9884856"/>
+	<node id="2768665003" lat="52.2126311" lon="20.9888751"/>
+	<node id="2768665004" lat="52.2127794" lon="20.9888976"/>
+	<node id="2768665005" lat="52.2145331" lon="20.9887639"/>
+	<node id="2768665007" lat="52.2147117" lon="20.988788"/>
+	<node id="2768677231" lat="52.2162262" lon="20.9876916"/>
+	<node id="2768677269" lat="52.2163317" lon="20.9873161"/>
+	<node id="2768677305" lat="52.2164303" lon="20.9892667"/>
+	<node id="2768677318" lat="52.2165163" lon="20.9883409"/>
+	<node id="2768677741" lat="52.2161555" lon="20.9882626"/>
+	<node id="2768677742" lat="52.2162001" lon="20.9902317"/>
+	<node id="2768677743" lat="52.2163193" lon="20.9880311"/>
+	<node id="2768677744" lat="52.2163738" lon="20.9902988"/>
+	<node id="2768677745" lat="52.216515" lon="20.9882825"/>
+	<node id="2791958189" lat="52.2102821" lon="21.0133585">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="2841473457" lat="52.211005" lon="21.0094415"/>
+	<node id="2841473467" lat="52.2112628" lon="21.010927"/>
+	<node id="2841473468" lat="52.2113444" lon="21.0113944"/>
+	<node id="2851381740" lat="52.204294" lon="21.0110893"/>
+	<node id="2869522466" lat="52.2081763" lon="21.0116854"/>
+	<node id="2869522467" lat="52.2082066" lon="21.0118553"/>
+	<node id="2869527400" lat="52.2080975" lon="21.0112424"/>
+	<node id="2869571461" lat="52.209662" lon="21.0136488"/>
+	<node id="2869575735" lat="52.210578" lon="21.0132135"/>
+	<node id="2869576891" lat="52.20835" lon="21.0126566"/>
+	<node id="2869588541" lat="52.2081494" lon="21.0143714"/>
+	<node id="2869588546" lat="52.2081888" lon="21.0143526"/>
+	<node id="2869588550" lat="52.2089534" lon="21.0139887"/>
+	<node id="2869913592" lat="52.2101938" lon="21.0133999"/>
+	<node id="2870000544" lat="52.2169537" lon="21.0047554"/>
+	<node id="2870000545" lat="52.2169845" lon="21.0054896"/>
+	<node id="2885920181" lat="52.2148486" lon="21.005453"/>
+	<node id="2888300685" lat="52.2167027" lon="20.9975242"/>
+	<node id="2889212101" lat="52.2167426" lon="20.9983127"/>
+	<node id="2889295918" lat="52.2173844" lon="20.9916704">
+		<tag k="traffic_calming" v="hump"/>
+	</node>
+	<node id="2889295922" lat="52.2174797" lon="20.9925104">
+		<tag k="traffic_calming" v="hump"/>
+	</node>
+	<node id="2889350005" lat="52.2079853" lon="20.9939575">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="no"/>
+	</node>
+	<node id="2889350009" lat="52.2087641" lon="20.9905978">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="tactile_paving" v="no"/>
+	</node>
+	<node id="2889350015" lat="52.2092276" lon="20.9886263"/>
+	<node id="2889350017" lat="52.2092802" lon="20.9883939"/>
+	<node id="2889350018" lat="52.2093206" lon="20.9881598"/>
+	<node id="2889498761" lat="52.21404" lon="20.9887987"/>
+	<node id="2899233937" lat="52.2172397" lon="21.0139901">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="Metro Politechnika 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="operator" v="Zarząd Transportu Miejskiego w Warszawie"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="700602"/>
+	</node>
+	<node id="2981959168" lat="52.205301" lon="21.0139935"/>
+	<node id="2990551699" lat="52.2178758" lon="21.013055"/>
+	<node id="3035843788" lat="52.2165686" lon="20.9951332">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Al. Wielkopolski 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="412201"/>
+	</node>
+	<node id="3035843789" lat="52.216812" lon="20.9964027">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Al. Wielkopolski 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="412202"/>
+	</node>
+	<node id="3035843791" lat="52.2172767" lon="21.0040517">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="GUS 08"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="709308"/>
+	</node>
+	<node id="3035843816" lat="52.2155874" lon="20.9881951">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Pomnik Lotnika 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="402901"/>
+	</node>
+	<node id="3035843817" lat="52.2168733" lon="20.9902586">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Pomnik Lotnika 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="402902"/>
+	</node>
+	<node id="3035843818" lat="52.2163539" lon="20.9912979">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Pomnik Lotnika 03"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="402903"/>
+	</node>
+	<node id="3035843819" lat="52.2163296" lon="20.9872839">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Pomnik Lotnika 04"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="402904"/>
+	</node>
+	<node id="3036126496" lat="52.2097459" lon="20.9875378">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Banacha-Szpital 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="403001"/>
+	</node>
+	<node id="3036126497" lat="52.2109123" lon="20.9883256">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Banacha-Szpital 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="403002"/>
+	</node>
+	<node id="3036126498" lat="52.2104381" lon="20.9870924">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Banacha-Szpital 04"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="403004"/>
+	</node>
+	<node id="3037256793" lat="52.2128483" lon="21.0060808">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Biblioteka Narodowa 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="709401"/>
+	</node>
+	<node id="3037256794" lat="52.2134665" lon="21.0063401">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Biblioteka Narodowa 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="709402"/>
+	</node>
+	<node id="3037256799" lat="52.205347" lon="21.021816">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Dworkowa 04"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="300304"/>
+	</node>
+	<node id="3037256810" lat="52.2036519" lon="21.0100232">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Madalińskiego 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="322902"/>
+	</node>
+	<node id="3037256813" lat="52.2042082" lon="21.0153785">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Madalińskiego-Szpital 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="310601"/>
+	</node>
+	<node id="3037256814" lat="52.2039099" lon="21.0136824">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Madalińskiego-Szpital 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="310602"/>
+	</node>
+	<node id="3037256816" lat="52.2086391" lon="21.007554">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Metro Pole Mokotowskie 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="322801"/>
+	</node>
+	<node id="3037256817" lat="52.2082683" lon="21.0080978">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Metro Pole Mokotowskie 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="322802"/>
+	</node>
+	<node id="3037256818" lat="52.2090403" lon="21.0073967">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Metro Pole Mokotowskie 05"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="322805"/>
+	</node>
+	<node id="3037256819" lat="52.2072167" lon="21.0084598">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Metro Pole Mokotowskie 06"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="322806"/>
+	</node>
+	<node id="3037256820" lat="52.2078615" lon="21.0099151">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Metro Pole Mokotowskie 08"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="322808"/>
+	</node>
+	<node id="3037256830" lat="52.2015965" lon="20.9851612">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Pruszkowska 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="403202"/>
+	</node>
+	<node id="3037257634" lat="52.2052305" lon="20.9991755">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Rakowiecka-Sanktuarium 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="328601"/>
+	</node>
+	<node id="3037257650" lat="52.2047192" lon="20.9858218">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Uniwersytet Medyczny 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="403101"/>
+	</node>
+	<node id="3037257651" lat="52.2047196" lon="20.9862258">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Uniwersytet Medyczny 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="403102"/>
+	</node>
+	<node id="3037257652" lat="52.2088025" lon="21.015203">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Wiśniowa 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="310501"/>
+	</node>
+	<node id="3037257653" lat="52.2084594" lon="21.0132504">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Wiśniowa 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="310502"/>
+	</node>
+	<node id="3037257662" lat="52.209612" lon="21.0013183">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Świętego Andrzeja Boboli 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="323501"/>
+	</node>
+	<node id="3039442546" lat="52.2061435" lon="21.0032758">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Rakowiecka-Sanktuarium 05"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="328605"/>
+	</node>
+	<node id="3044616274" lat="52.2062792" lon="20.9992724">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Rakowiecka-Sanktuarium 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="328602"/>
+	</node>
+	<node id="3047941869" lat="52.2103969" lon="21.0059114">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Stefana Batorego 01"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="323401"/>
+	</node>
+	<node id="3047941870" lat="52.2103083" lon="21.0054179">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Stefana Batorego 02"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="323402"/>
+	</node>
+	<node id="3163400089" lat="52.2027952" lon="20.9851732"/>
+	<node id="3323706628" lat="52.2168317" lon="21.0146992">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="3323706629" lat="52.2172548" lon="21.0147059">
+		<tag k="bicycle" v="yes"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="3352222724" lat="52.217113" lon="21.0144907"/>
+	<node id="3352222728" lat="52.2170347" lon="21.0142764"/>
+	<node id="3352222729" lat="52.2171196" lon="21.0143103"/>
+	<node id="3374537224" lat="52.2170243" lon="21.0145645"/>
+	<node id="3374537225" lat="52.2170243" lon="21.0145819"/>
+	<node id="3374537226" lat="52.2171052" lon="21.0148127"/>
+	<node id="3374537227" lat="52.2171101" lon="21.0145705"/>
+	<node id="3385300938" lat="52.207195" lon="21.0063694">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="Metro Pole Mokotowskie 07"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="322807"/>
+	</node>
+	<node id="3385301274" lat="52.2063549" lon="21.0016865">
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="Rakowiecka-Sanktuarium 08"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="328608"/>
+	</node>
+	<node id="3402852220" lat="52.2057041" lon="20.9994428">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="3402852221" lat="52.2058234" lon="20.999432"/>
+	<node id="3402852222" lat="52.2058932" lon="20.9994534"/>
+	<node id="3402852223" lat="52.2059455" lon="20.9994958"/>
+	<node id="3402852224" lat="52.2059931" lon="20.9986232"/>
+	<node id="3402852225" lat="52.2060174" lon="20.9993241"/>
+	<node id="3402852227" lat="52.2066041" lon="20.9991885"/>
+	<node id="3402852228" lat="52.2067317" lon="20.9991751"/>
+	<node id="3402852229" lat="52.206773" lon="20.9991688"/>
+	<node id="3402852234" lat="52.2086508" lon="20.9985832"/>
+	<node id="3402852235" lat="52.2087151" lon="20.9985741"/>
+	<node id="3402852236" lat="52.2087749" lon="20.9985888"/>
+	<node id="3402852237" lat="52.2088443" lon="20.99862"/>
+	<node id="3402852238" lat="52.2089028" lon="20.9986615"/>
+	<node id="3402852239" lat="52.2089588" lon="20.9987095"/>
+	<node id="3402852241" lat="52.2090469" lon="20.9988249"/>
+	<node id="3402852243" lat="52.2090952" lon="20.9989111"/>
+	<node id="3402852244" lat="52.209128" lon="20.9990144"/>
+	<node id="3402852245" lat="52.2091806" lon="20.9992578"/>
+	<node id="3402852246" lat="52.2092479" lon="20.9996062"/>
+	<node id="3402852247" lat="52.2092793" lon="20.9997469">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="crossing:island" v="yes"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="image" v="http://storage6.openstreetcam.org/files/photo/2017/10/31/lth/960663_a6e93_20.jpg"/>
+		<tag k="survey:date" v="2017-10-31"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="3411278133" lat="52.2102612" lon="21.0073472">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="3411278141" lat="52.2104476" lon="21.0065371">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="3411278157" lat="52.2106949" lon="21.0076135">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="3431408909" lat="52.2062217" lon="21.0152907"/>
+	<node id="3431408910" lat="52.2062569" lon="21.0152724"/>
+	<node id="3431408967" lat="52.2079432" lon="21.0144549"/>
+	<node id="3444886627" lat="52.2118823" lon="21.0146445"/>
+	<node id="3444886628" lat="52.2119554" lon="21.0150346"/>
+	<node id="3444886629" lat="52.2121442" lon="21.0154881"/>
+	<node id="3444922929" lat="52.2038203" lon="21.012272"/>
+	<node id="3444922975" lat="52.2041697" lon="21.0107081"/>
+	<node id="3444951462" lat="52.2027097" lon="21.014325">
+		<tag k="traffic_calming" v="hump"/>
+	</node>
+	<node id="3444951475" lat="52.2030887" lon="21.0142266"/>
+	<node id="3444970315" lat="52.2026655" lon="21.0133115"/>
+	<node id="3453764455" lat="52.2087772" lon="20.9905353"/>
+	<node id="3458519211" lat="52.2076885" lon="21.0128654"/>
+	<node id="3572866844" lat="52.2040418" lon="20.993856"/>
+	<node id="3572866845" lat="52.2040431" lon="20.9937802"/>
+	<node id="3572866846" lat="52.2040258" lon="20.9937172"/>
+	<node id="3572866847" lat="52.203434" lon="20.9935647"/>
+	<node id="3572866848" lat="52.2034854" lon="20.9934993"/>
+	<node id="3572866849" lat="52.2034554" lon="20.9935167"/>
+	<node id="3574814195" lat="52.2036451" lon="20.997677">
+		<tag k="barrier" v="lift_gate"/>
+	</node>
+	<node id="3574834414" lat="52.2041384" lon="20.9980194"/>
+	<node id="3620932027" lat="52.218739" lon="20.9882775"/>
+	<node id="3656698631" lat="52.2125785" lon="21.0176902">
+		<tag k="crossing:end" v="yes"/>
+	</node>
+	<node id="3656698660" lat="52.2126629" lon="21.0176102">
+		<tag k="crossing:end" v="yes"/>
+	</node>
+	<node id="3750848327" lat="52.215916" lon="21.0056712"/>
+	<node id="3750848337" lat="52.2174052" lon="21.0053312"/>
+	<node id="3750848340" lat="52.2174278" lon="21.0052696"/>
+	<node id="3750848346" lat="52.2168538" lon="21.0049311"/>
+	<node id="3750848347" lat="52.2169275" lon="21.0048126"/>
+	<node id="3857813423" lat="52.2167873" lon="20.985819"/>
+	<node id="3857813443" lat="52.2168918" lon="20.9861299"/>
+	<node id="3857813459" lat="52.2169591" lon="20.9863019"/>
+	<node id="3857813487" lat="52.2171555" lon="20.9867217"/>
+	<node id="3857813523" lat="52.2173599" lon="20.9870822"/>
+	<node id="3881492275" lat="52.2021713" lon="20.9849461"/>
+	<node id="3881492276" lat="52.2045433" lon="20.9857641"/>
+	<node id="3881492277" lat="52.2103172" lon="20.9858308"/>
+	<node id="3881763625" lat="52.2093759" lon="20.9874137"/>
+	<node id="3881763626" lat="52.2102525" lon="20.9879554"/>
+	<node id="3881763627" lat="52.2103744" lon="20.9881388"/>
+	<node id="3890758954" lat="52.2104892" lon="20.9881821"/>
+	<node id="3890758955" lat="52.2105287" lon="20.9877916"/>
+	<node id="3890796863" lat="52.2104102" lon="20.9875781">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="3890796864" lat="52.2102237" lon="20.9875063">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="3890796867" lat="52.2100508" lon="20.9876335">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="3890796868" lat="52.2100007" lon="20.9880152">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="3892893954" lat="52.2043987" lon="21.0164387">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="3892893956" lat="52.2043367" lon="21.0160942">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="3892895184" lat="52.2172035" lon="21.0050261"/>
+	<node id="3892895186" lat="52.2173242" lon="21.0048624"/>
+	<node id="3892912133" lat="52.2172127" lon="21.0051652"/>
+	<node id="3892912358" lat="52.2171465" lon="21.0050921"/>
+	<node id="3892913116" lat="52.2172711" lon="21.0050858"/>
+	<node id="4012900509" lat="52.2088169" lon="21.0016531"/>
+	<node id="4012900510" lat="52.208812" lon="21.0013127"/>
+	<node id="4012946515" lat="52.2072387" lon="20.9978822"/>
+	<node id="4012949337" lat="52.2066346" lon="20.9964817">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="4012949338" lat="52.2066529" lon="20.996358">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="4012949369" lat="52.2075568" lon="20.9958553"/>
+	<node id="4012966525" lat="52.2071556" lon="20.9984508"/>
+	<node id="4012972918" lat="52.2069742" lon="21.0000465"/>
+	<node id="4012974402" lat="52.2067009" lon="21.0001949"/>
+	<node id="4027020405" lat="52.2092623" lon="21.0054738"/>
+	<node id="4037296026" lat="52.2051453" lon="20.9863826"/>
+	<node id="4174477606" lat="52.2089973" lon="20.987691"/>
+	<node id="4201977660" lat="52.2051121" lon="20.9859542"/>
+	<node id="4201977661" lat="52.2050613" lon="20.9863538"/>
+	<node id="4290649774" lat="52.2161646" lon="20.9885984"/>
+	<node id="4298701137" lat="52.206256" lon="21.000581"/>
+	<node id="4298765389" lat="52.2049754" lon="21.008525"/>
+	<node id="4298775709" lat="52.2062121" lon="21.0022067"/>
+	<node id="4298957456" lat="52.2059489" lon="20.9988776"/>
+	<node id="4298957463" lat="52.2060231" lon="20.998877"/>
+	<node id="4349139098" lat="52.2171868" lon="20.9884762"/>
+	<node id="4384968702" lat="52.2041484" lon="21.0098161"/>
+	<node id="4384968704" lat="52.2040605" lon="21.0099168"/>
+	<node id="4384968715" lat="52.2041206" lon="21.0098839"/>
+	<node id="4384968756" lat="52.2033442" lon="21.0104665"/>
+	<node id="4384968760" lat="52.2040319" lon="21.0099009"/>
+	<node id="4384968768" lat="52.2034814" lon="21.0099513"/>
+	<node id="4384968788" lat="52.204132" lon="21.0098528"/>
+	<node id="4384968891" lat="52.204083" lon="21.0099381"/>
+	<node id="4384968895" lat="52.2041141" lon="21.0099224"/>
+	<node id="4384968896" lat="52.2039362" lon="21.0098974"/>
+	<node id="4384968901" lat="52.2039963" lon="21.0098914"/>
+	<node id="4384968932" lat="52.2034614" lon="21.0101078"/>
+	<node id="4398297036" lat="52.2049667" lon="21.0105802"/>
+	<node id="4398297037" lat="52.2049772" lon="21.0105534"/>
+	<node id="4398297038" lat="52.2053562" lon="21.0128019"/>
+	<node id="4398297039" lat="52.2053736" lon="21.0128076"/>
+	<node id="4398297042" lat="52.2056802" lon="21.0102233"/>
+	<node id="4398297043" lat="52.2057045" lon="21.0102484"/>
+	<node id="4398297044" lat="52.2057247" lon="21.0103"/>
+	<node id="4398297045" lat="52.2057945" lon="21.0106789">
+		<tag k="traffic_calming" v="hump"/>
+	</node>
+	<node id="4398297048" lat="52.2060808" lon="21.0124503"/>
+	<node id="4398297049" lat="52.2060903" lon="21.0124048"/>
+	<node id="4398962007" lat="52.2045617" lon="21.0061653"/>
+	<node id="4398962011" lat="52.2047816" lon="21.0074378"/>
+	<node id="4533374346" lat="52.2174513" lon="21.0069901"/>
+	<node id="4571636377" lat="52.2059032" lon="20.999366"/>
+	<node id="4571636381" lat="52.205948" lon="20.9993509"/>
+	<node id="4571636383" lat="52.2059651" lon="20.9993747"/>
+	<node id="4672227628" lat="52.2094616" lon="21.0007197"/>
+	<node id="4672231881" lat="52.2096803" lon="21.0019084"/>
+	<node id="4674214509" lat="52.2173245" lon="21.0124105"/>
+	<node id="4674214510" lat="52.2173706" lon="21.0109219"/>
+	<node id="4719189466" lat="52.20933" lon="20.9880255"/>
+	<node id="4719189467" lat="52.2093282" lon="20.9880514"/>
+	<node id="4853752131" lat="52.2062656" lon="21.0135566"/>
+	<node id="4853797051" lat="52.2071876" lon="21.0131064"/>
+	<node id="4853842854" lat="52.2068028" lon="21.0132923"/>
+	<node id="4853855388" lat="52.2080925" lon="21.0126839"/>
+	<node id="4876449225" lat="52.2164266" lon="20.9878343">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="4876449226" lat="52.2162087" lon="20.9878565">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="4876449230" lat="52.216751" lon="20.9882393"/>
+	<node id="4876449234" lat="52.2160539" lon="20.9881149"/>
+	<node id="4876449238" lat="52.2161531" lon="20.9901919">
+		<tag k="bicycle" v="yes"/>
+		<tag k="crossing" v="traffic_signals"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="4877985337" lat="52.2107241" lon="21.0067893"/>
+	<node id="4877985340" lat="52.210771" lon="21.0071994"/>
+	<node id="4878457124" lat="52.2061537" lon="20.9990341"/>
+	<node id="4878457125" lat="52.2061538" lon="20.9992969"/>
+	<node id="4878457127" lat="52.2071098" lon="20.9987761">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="4878457128" lat="52.2071019" lon="20.9988399">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="4913505751" lat="52.2117329" lon="21.0064731"/>
+	<node id="4956979316" lat="52.2168499" lon="21.001892"/>
+	<node id="4983636313" lat="52.2085354" lon="20.9999181"/>
+	<node id="4983636314" lat="52.2085873" lon="21.0000358"/>
+	<node id="4983636315" lat="52.2088244" lon="21.0014893"/>
+	<node id="4983636316" lat="52.2087963" lon="21.0017575"/>
+	<node id="4983636317" lat="52.2088224" lon="21.0016118"/>
+	<node id="4983636318" lat="52.2088079" lon="21.001684"/>
+	<node id="4983636319" lat="52.2087995" lon="21.0017266"/>
+	<node id="4983636320" lat="52.2095421" lon="21.0013577"/>
+	<node id="4983638821" lat="52.2096016" lon="21.0016868"/>
+	<node id="4983638822" lat="52.2095711" lon="21.0015216">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="image" v="http://storage6.openstreetcam.org/files/photo/2017/10/31/lth/960663_a6e93_24.jpg"/>
+		<tag k="survey:date" v="2017-10-31"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="4983638823" lat="52.2096705" lon="21.0016519"/>
+	<node id="4983638824" lat="52.2095225" lon="21.0010461"/>
+	<node id="4983691472" lat="52.2102527" lon="21.0051157">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Stefana Batorego 51"/>
+		<tag k="network" v="ZTM Warszawa"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref" v="323451"/>
+	</node>
+	<node id="4983691476" lat="52.2093309" lon="21.0051192"/>
+	<node id="4983691477" lat="52.2093294" lon="21.0051656"/>
+	<node id="4983691478" lat="52.2092655" lon="21.0053759"/>
+	<node id="4983691479" lat="52.2092626" lon="21.0054095"/>
+	<node id="4983691482" lat="52.2101086" lon="21.004321"/>
+	<node id="4983691483" lat="52.2105309" lon="21.0065091"/>
+	<node id="4984166705" lat="52.2190793" lon="20.988327">
+		<tag k="crossing" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="5016104992" lat="52.2058419" lon="20.999392"/>
+	<node id="5019359072" lat="52.217058" lon="21.0016942"/>
+	<node id="5019359073" lat="52.2170391" lon="21.0013086"/>
+	<node id="5019359074" lat="52.2170319" lon="21.0009538"/>
+	<node id="5019359075" lat="52.2170841" lon="21.0005824"/>
+	<node id="5019359076" lat="52.2171247" lon="21.0011123"/>
+	<node id="5019359077" lat="52.2172898" lon="21.0058065"/>
+	<node id="5019359078" lat="52.2173592" lon="21.0071938"/>
+	<node id="5019359079" lat="52.2173637" lon="21.0081323"/>
+	<node id="5019359080" lat="52.2174687" lon="21.0087678"/>
+	<node id="5019359081" lat="52.2174677" lon="21.0090079"/>
+	<node id="5019359082" lat="52.2172598" lon="21.0123514"/>
+	<node id="5019359083" lat="52.2171225" lon="21.0152916"/>
+	<node id="5019359084" lat="52.2171431" lon="21.0154885"/>
+	<node id="5019379133" lat="52.2166255" lon="20.9931313"/>
+	<node id="5019379134" lat="52.2170153" lon="21.0000004"/>
+	<node id="5019379135" lat="52.2169867" lon="20.9994457"/>
+	<node id="5019379136" lat="52.2169199" lon="20.998276"/>
+	<node id="5019388793" lat="52.2162976" lon="20.9904575"/>
+	<node id="5019388794" lat="52.2165655" lon="20.9921165"/>
+	<node id="5019406473" lat="52.216428" lon="20.989649"/>
+	<node id="5019406474" lat="52.2159561" lon="20.9899488"/>
+	<node id="5020956996" lat="52.2162903" lon="20.9865587"/>
+	<node id="5024155507" lat="52.216231" lon="20.9874968"/>
+	<node id="5024165151" lat="52.2162574" lon="20.9900611"/>
+	<node id="5024165152" lat="52.2162325" lon="20.9897384"/>
+	<node id="5026362264" lat="52.2164535" lon="20.993077"/>
+	<node id="5026373967" lat="52.2166694" lon="20.9969307"/>
+	<node id="5026386462" lat="52.217255" lon="21.0073593"/>
+	<node id="5026386463" lat="52.2170439" lon="21.0035275"/>
+	<node id="5026403654" lat="52.2168465" lon="21.0144909"/>
+	<node id="5026407994" lat="52.2170122" lon="21.0126634"/>
+	<node id="5084415738" lat="52.2070284" lon="21.0056305">
+		<tag k="highway" v="give_way"/>
+	</node>
+	<node id="5098915208" lat="52.2046592" lon="21.0118864"/>
+	<node id="5098915219" lat="52.2049029" lon="21.0117744"/>
+	<node id="5241431091" lat="52.2171084" lon="21.0149544"/>
+	<node id="5401981709" lat="52.2140998" lon="20.9880539">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="crossing_ref" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="5401981715" lat="52.2155111" lon="20.9879607">
+		<tag k="crossing" v="unmarked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="5401981717" lat="52.2159172" lon="20.988017">
+		<tag k="crossing" v="unmarked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="5401982231" lat="52.215912" lon="20.9879808"/>
+	<node id="5402230916" lat="52.2036331" lon="20.9854573"/>
+	<node id="5639003296" lat="52.2096214" lon="21.0198345"/>
+	<node id="5765362897" lat="52.2172719" lon="21.0049436"/>
+	<node id="5963316353" lat="52.2024642" lon="21.0133888"/>
+	<node id="6019876670" lat="52.2139956" lon="20.9856404"/>
+	<node id="6067177193" lat="52.2140724" lon="20.9874138"/>
+	<node id="6313855872" lat="52.204683" lon="21.0068473">
+		<tag k="crossing" v="marked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="6313858086" lat="52.2044622" lon="21.005593">
+		<tag k="crossing" v="marked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="6537319825" lat="52.2078189" lon="21.0096754"/>
+	<node id="6550148060" lat="52.2171841" lon="21.0024241"/>
+	<node id="6744649814" lat="52.2076748" lon="21.0088776"/>
+	<node id="6744649815" lat="52.2076991" lon="21.009002"/>
+	<node id="6991051382" lat="52.2051153" lon="21.0204735">
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="7061617828" lat="52.2107593" lon="21.0067786"/>
+	<node id="7061617831" lat="52.2108017" lon="21.0071895"/>
+	<way id="4886774">
+		<nd ref="31718227"/>
+		<nd ref="1317127883"/>
+		<nd ref="4298765389"/>
+		<nd ref="38432721"/>
+		<nd ref="32126048"/>
+		<nd ref="2765918139"/>
+		<nd ref="4398962011"/>
+		<nd ref="6313855872"/>
+		<nd ref="32126047"/>
+		<nd ref="4398962007"/>
+		<nd ref="6313858086"/>
+		<nd ref="31884830"/>
+		<nd ref="1317127878"/>
+		<nd ref="31718307"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="30"/>
+		<tag k="maxspeed:type" v="sign"/>
+		<tag k="name" v="Ludwika Narbutta"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="4893977">
+		<nd ref="31884821"/>
+		<nd ref="4571636383"/>
+		<nd ref="824619324"/>
+		<nd ref="2511487062"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Rakowiecka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4895768">
+		<nd ref="31718064"/>
+		<nd ref="396294387"/>
+		<nd ref="1980975004"/>
+		<nd ref="26118477"/>
+		<nd ref="2684219695"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4895769">
+		<nd ref="32600277"/>
+		<nd ref="2768605666"/>
+		<nd ref="308816072"/>
+		<nd ref="4878457124"/>
+		<nd ref="1877430874"/>
+		<nd ref="31906466"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4895770">
+		<nd ref="2684219696"/>
+		<nd ref="3402852227"/>
+		<nd ref="3402852228"/>
+		<nd ref="3402852229"/>
+		<nd ref="26118476"/>
+		<nd ref="32600277"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4895771">
+		<nd ref="31884822"/>
+		<nd ref="2636589943"/>
+		<nd ref="2636603714"/>
+		<nd ref="2636842624"/>
+		<nd ref="31884830"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Kielecka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4895772">
+		<nd ref="31884832"/>
+		<nd ref="2511487078"/>
+		<nd ref="2636842626"/>
+		<nd ref="31884830"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="maxspeed" v="30"/>
+		<tag k="name" v="Kielecka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:left" v="parallel"/>
+		<tag k="parking:lane:right" v="no_parking"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4895983">
+		<nd ref="31884818"/>
+		<nd ref="31897796"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="name" v="Rakowiecka"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4895984">
+		<nd ref="31897796"/>
+		<nd ref="1317127848"/>
+		<nd ref="6744649814"/>
+		<nd ref="6744649815"/>
+		<nd ref="6537319825"/>
+		<nd ref="3037256820"/>
+		<nd ref="2869527400"/>
+		<nd ref="2869522466"/>
+		<nd ref="2869522467"/>
+		<nd ref="2231337986"/>
+		<nd ref="1565354129"/>
+		<nd ref="33199597"/>
+		<nd ref="2869576891"/>
+		<nd ref="2231337990"/>
+		<nd ref="3037257653"/>
+		<nd ref="2508889713"/>
+		<nd ref="33199595"/>
+		<nd ref="2231337974"/>
+		<nd ref="3037257652"/>
+		<nd ref="255443740"/>
+		<nd ref="33310081"/>
+		<nd ref="2231337981"/>
+		<nd ref="343300728"/>
+		<nd ref="33310086"/>
+		<nd ref="2231337967"/>
+		<nd ref="334559301"/>
+		<nd ref="5639003296"/>
+		<tag k="access" v="yes"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="cycleway" v="no"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Rakowiecka"/>
+		<tag k="oneway" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4898194">
+		<nd ref="31917331"/>
+		<nd ref="31917332"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="layer" v="-1"/>
+		<tag k="lit" v="24/7"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+		<tag k="tunnel" v="yes"/>
+	</way>
+	<way id="4898195">
+		<nd ref="27167004"/>
+		<nd ref="27167002"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="layer" v="-1"/>
+		<tag k="lit" v="24/7"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="tunnel" v="yes"/>
+	</way>
+	<way id="4898196">
+		<nd ref="30901479"/>
+		<nd ref="308767260"/>
+		<nd ref="2768677743"/>
+		<nd ref="308197307"/>
+		<nd ref="30902333"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Rondo Ryszarda Kaczorowskiego"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:name" v="Uchwała Rady m.st.Warszawy nr XXX/771/2016"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|none|none|none"/>
+	</way>
+	<way id="4898197">
+		<nd ref="30902333"/>
+		<nd ref="2768677741"/>
+		<nd ref="415948017"/>
+		<nd ref="4290649774"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Rondo Ryszarda Kaczorowskiego"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="source:name" v="Uchwała Rady m.st.Warszawy nr XXX/771/2016"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="4898198">
+		<nd ref="31917332"/>
+		<nd ref="5019359072"/>
+		<nd ref="5019359073"/>
+		<nd ref="5019359074"/>
+		<nd ref="31917333"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="cutting" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="4898199">
+		<nd ref="27167002"/>
+		<nd ref="1447938357"/>
+		<nd ref="339977467"/>
+		<nd ref="5026386462"/>
+		<nd ref="2392213346"/>
+		<nd ref="281910833"/>
+		<nd ref="2392213344"/>
+		<nd ref="27166998"/>
+		<tag k="cutting" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="incline" v="up"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|right"/>
+	</way>
+	<way id="4898200">
+		<nd ref="3374537227"/>
+		<nd ref="3352222724"/>
+		<nd ref="3352222729"/>
+		<nd ref="1344674220"/>
+		<nd ref="31917328"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through;right"/>
+	</way>
+	<way id="4898205">
+		<nd ref="27167006"/>
+		<nd ref="2324053586"/>
+		<nd ref="4956979316"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4898206">
+		<nd ref="31917329"/>
+		<nd ref="1344674324"/>
+		<nd ref="1344674267"/>
+		<nd ref="31917351"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4898216">
+		<nd ref="31917364"/>
+		<nd ref="2405949536"/>
+		<nd ref="2405949540"/>
+		<nd ref="5019359082"/>
+		<nd ref="1344674332"/>
+		<nd ref="31917328"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left"/>
+	</way>
+	<way id="4898217">
+		<nd ref="27166998"/>
+		<nd ref="1344674318"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4898218">
+		<nd ref="31917364"/>
+		<nd ref="31917362"/>
+		<nd ref="4674214509"/>
+		<nd ref="31917359"/>
+		<nd ref="4674214510"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4898221">
+		<nd ref="31917366"/>
+		<nd ref="3323706629"/>
+		<nd ref="573211463"/>
+		<nd ref="301612696"/>
+		<nd ref="2899233937"/>
+		<nd ref="2405949534"/>
+		<nd ref="31917364"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|through|through;right"/>
+	</way>
+	<way id="4898228">
+		<nd ref="3374537224"/>
+		<nd ref="3374537225"/>
+		<nd ref="573211465"/>
+		<nd ref="35215097"/>
+		<nd ref="31917344"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="-1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="tunnel" v="yes"/>
+	</way>
+	<way id="4898229">
+		<nd ref="31917343"/>
+		<nd ref="5019359084"/>
+		<nd ref="5019359083"/>
+		<nd ref="35215099"/>
+		<nd ref="5241431091"/>
+		<nd ref="3374537226"/>
+		<nd ref="3374537227"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="-1"/>
+		<tag k="lit" v="24/7"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="tunnel" v="yes"/>
+	</way>
+	<way id="4902305">
+		<nd ref="31897793"/>
+		<nd ref="31718227"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Ludwika Narbutta"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4902307">
+		<nd ref="3402852241"/>
+		<nd ref="3402852243"/>
+		<nd ref="3402852244"/>
+		<nd ref="3402852245"/>
+		<nd ref="3402852246"/>
+		<nd ref="3402852247"/>
+		<nd ref="4672227628"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="name_1" v="Batorego"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4902314">
+		<nd ref="31803760"/>
+		<nd ref="2368177523"/>
+		<nd ref="3037256799"/>
+		<nd ref="1582895975"/>
+		<nd ref="6991051382"/>
+		<nd ref="33234545"/>
+		<nd ref="2333166488"/>
+		<nd ref="2639483672"/>
+		<nd ref="369512808"/>
+		<nd ref="1327239330"/>
+		<nd ref="2508871371"/>
+		<nd ref="1327268334"/>
+		<nd ref="3892893954"/>
+		<nd ref="33234564"/>
+		<nd ref="3892893956"/>
+		<nd ref="3037256813"/>
+		<nd ref="2333159914"/>
+		<nd ref="33199600"/>
+		<nd ref="2636585392"/>
+		<nd ref="2639720942"/>
+		<nd ref="33200128"/>
+		<nd ref="3037256814"/>
+		<nd ref="2508858711"/>
+		<nd ref="2639067624"/>
+		<nd ref="31803795"/>
+		<nd ref="2508858703"/>
+		<nd ref="33200060"/>
+		<nd ref="33200061"/>
+		<nd ref="2636579858"/>
+		<nd ref="1327268339"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Antoniego Józefa Madalińskiego"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4905243">
+		<nd ref="3402852225"/>
+		<nd ref="824619327"/>
+		<nd ref="31906466"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Stanisława Żaryna"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4905245">
+		<nd ref="32024525"/>
+		<nd ref="1317133183"/>
+		<nd ref="2511480276"/>
+		<nd ref="32677864"/>
+		<nd ref="4027020405"/>
+		<nd ref="4983691479"/>
+		<nd ref="4983691478"/>
+		<nd ref="32024568"/>
+		<nd ref="32024572"/>
+		<nd ref="4983691477"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Giordana Bruna"/>
+		<tag k="old_name" v="Juliana Bruna"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4907768">
+		<nd ref="30902333"/>
+		<nd ref="715755583"/>
+		<nd ref="4876449234"/>
+		<nd ref="415948009"/>
+		<nd ref="248591685"/>
+		<nd ref="3035843816"/>
+		<nd ref="248591686"/>
+		<nd ref="32573085"/>
+		<nd ref="32329841"/>
+		<tag k="destination" v="Lotnisko Chopina"/>
+		<tag k="destination:colour:arrow" v="blue"/>
+		<tag k="destination:colour:back" v="white"/>
+		<tag k="destination:colour:text" v="blue"/>
+		<tag k="destination:symbol" v="airport"/>
+		<tag k="hgv" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="restriction" v="hgv"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4907770">
+		<nd ref="32049368"/>
+		<nd ref="3881763627"/>
+		<nd ref="3890758954"/>
+		<nd ref="213959073"/>
+		<nd ref="3036126497"/>
+		<nd ref="1307044998"/>
+		<nd ref="2768664991"/>
+		<nd ref="1445855907"/>
+		<nd ref="2768664995"/>
+		<nd ref="32049237"/>
+		<nd ref="2768665003"/>
+		<nd ref="2768665004"/>
+		<nd ref="32049238"/>
+		<nd ref="32329827"/>
+		<nd ref="2889498761"/>
+		<nd ref="32329828"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4907800">
+		<nd ref="32049368"/>
+		<nd ref="3881763626"/>
+		<nd ref="32049365"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed:type" v="PL:urban"/>
+		<tag k="noname" v="yes"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4907801">
+		<nd ref="32049364"/>
+		<nd ref="3881763626"/>
+		<nd ref="3881763627"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4907802">
+		<nd ref="32049365"/>
+		<nd ref="3890796863"/>
+		<nd ref="560634847"/>
+		<nd ref="3036126498"/>
+		<nd ref="32049371"/>
+		<nd ref="619221867"/>
+		<nd ref="2445047716"/>
+		<nd ref="32049379"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:type" v="sign"/>
+		<tag k="name" v="Stefana Banacha"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9365996"/>
+		<tag k="wikipedia" v="pl:Ulica Stefana Banacha w Warszawie"/>
+	</way>
+	<way id="4911759">
+		<nd ref="32126043"/>
+		<nd ref="2511487065"/>
+		<nd ref="1332421940"/>
+		<nd ref="32126044"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Akacjowa"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4911760">
+		<nd ref="32126045"/>
+		<nd ref="1317127866"/>
+		<nd ref="1317127859"/>
+		<nd ref="2636842636"/>
+		<nd ref="32126048"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Asfaltowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4911761">
+		<nd ref="32126047"/>
+		<nd ref="2636842632"/>
+		<nd ref="2511487080"/>
+		<nd ref="5084415738"/>
+		<nd ref="32126046"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="30"/>
+		<tag k="maxspeed:type" v="sign"/>
+		<tag k="name" v="Opoczyńska"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="4925290">
+		<nd ref="32329830"/>
+		<nd ref="415948011"/>
+		<nd ref="3035843817"/>
+		<nd ref="715755566"/>
+		<nd ref="32048667"/>
+		<nd ref="32606515"/>
+		<nd ref="2054435253"/>
+		<nd ref="1052381770"/>
+		<nd ref="2677951804"/>
+		<nd ref="32329833"/>
+		<tag k="destination" v="Dworzec Centralny"/>
+		<tag k="destination:colour:arrow" v="blue"/>
+		<tag k="destination:colour:back" v="white"/>
+		<tag k="destination:colour:text" v="blue"/>
+		<tag k="destination:symbol" v="train_station"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Andrzeja Krzyckiego"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4925291">
+		<nd ref="32329841"/>
+		<nd ref="248591682"/>
+		<nd ref="5401981709"/>
+		<nd ref="6067177193"/>
+		<nd ref="255582375"/>
+		<nd ref="6019876670"/>
+		<nd ref="32329837"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Ilji Miecznikowa"/>
+	</way>
+	<way id="4925292">
+		<nd ref="30901479"/>
+		<nd ref="4876449225"/>
+		<nd ref="415948008"/>
+		<nd ref="415948014"/>
+		<nd ref="2768677269"/>
+		<nd ref="3035843819"/>
+		<nd ref="32329842"/>
+		<nd ref="5020956996"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="destination" v="Poznań"/>
+		<tag k="destination:colour:arrow" v="white"/>
+		<tag k="destination:colour:back" v="green"/>
+		<tag k="destination:colour:int_ref" v="green"/>
+		<tag k="destination:colour:ref:to" v="red"/>
+		<tag k="destination:colour:text" v="white"/>
+		<tag k="destination:int_ref" v="E30"/>
+		<tag k="destination:ref:to" v="A2"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="4946213">
+		<nd ref="32600274"/>
+		<nd ref="715791357"/>
+		<nd ref="4719189466"/>
+		<nd ref="4719189467"/>
+		<nd ref="2889350018"/>
+		<nd ref="2889350017"/>
+		<nd ref="2889350015"/>
+		<nd ref="3453764455"/>
+		<nd ref="2889350009"/>
+		<nd ref="1707748844"/>
+		<nd ref="1445855899"/>
+		<nd ref="32600281"/>
+		<nd ref="2889350005"/>
+		<nd ref="2639964260"/>
+		<nd ref="4012949369"/>
+		<nd ref="2639964256"/>
+		<nd ref="32600279"/>
+		<nd ref="4012946515"/>
+		<nd ref="4012966525"/>
+		<nd ref="2639964245"/>
+		<nd ref="4878457127"/>
+		<nd ref="308816087"/>
+		<nd ref="4878457128"/>
+		<nd ref="1795627563"/>
+		<nd ref="1795627560"/>
+		<nd ref="32600277"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="30"/>
+		<tag k="name" v="Józefa i Jana Rostafińskich"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4946873">
+		<nd ref="32048673"/>
+		<nd ref="308942622"/>
+		<nd ref="311776996"/>
+		<nd ref="715755682"/>
+		<nd ref="54094104"/>
+		<nd ref="715755584"/>
+		<nd ref="32048667"/>
+		<tag k="highway" v="residential"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Mikołaja Reja"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="oneway:bicycle" v="no"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4954146">
+		<nd ref="31803795"/>
+		<nd ref="2508849823"/>
+		<nd ref="2508858691"/>
+		<nd ref="3444970315"/>
+		<nd ref="5963316353"/>
+		<nd ref="2509494934"/>
+		<nd ref="32677847"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Lewicka"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="4997483">
+		<nd ref="33182649"/>
+		<nd ref="33182647"/>
+		<nd ref="33182648"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Prezydencka"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4999154">
+		<nd ref="33199595"/>
+		<nd ref="2508889716"/>
+		<nd ref="2869588550"/>
+		<nd ref="2869571461"/>
+		<nd ref="2869913592"/>
+		<nd ref="2791958189"/>
+		<nd ref="2869575735"/>
+		<nd ref="33199588"/>
+		<nd ref="2454720156"/>
+		<nd ref="26195464"/>
+		<tag k="highway" v="residential"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Wiśniowa"/>
+		<tag k="oneway" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4999156">
+		<nd ref="33199597"/>
+		<nd ref="2636745574"/>
+		<nd ref="4853855388"/>
+		<nd ref="2765977106"/>
+		<nd ref="3458519211"/>
+		<nd ref="4853797051"/>
+		<nd ref="33199605"/>
+		<nd ref="4853842854"/>
+		<nd ref="4853752131"/>
+		<nd ref="2508871376"/>
+		<nd ref="33199606"/>
+		<tag k="cycleway:left" v="opposite_lane"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Kazimierzowska"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="oneway:bicycle" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4999158">
+		<nd ref="33199606"/>
+		<nd ref="2333189675"/>
+		<nd ref="2981959168"/>
+		<nd ref="2333000284"/>
+		<nd ref="1582412268"/>
+		<nd ref="1582412266"/>
+		<nd ref="2333175691"/>
+		<nd ref="33199600"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Kazimierzowska"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4999159">
+		<nd ref="31897859"/>
+		<nd ref="2636786228"/>
+		<nd ref="1317127851"/>
+		<nd ref="31897793"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Ludwika Narbutta"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4999160">
+		<nd ref="33199626"/>
+		<nd ref="2311070528"/>
+		<nd ref="33200047"/>
+		<nd ref="2311070518"/>
+		<nd ref="33199631"/>
+		<nd ref="4398297038"/>
+		<nd ref="4398297039"/>
+		<nd ref="2290909167"/>
+		<nd ref="2311070489"/>
+		<nd ref="33199614"/>
+		<nd ref="2311070533"/>
+		<nd ref="33199621"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Ludwika Narbutta"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="4999195">
+		<nd ref="33200062"/>
+		<nd ref="2509494933"/>
+		<nd ref="266863919"/>
+		<nd ref="2508858699"/>
+		<nd ref="33200061"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Kwiatowa"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="4999196">
+		<nd ref="33200060"/>
+		<nd ref="2508849824"/>
+		<nd ref="3444922929"/>
+		<nd ref="5098915208"/>
+		<nd ref="5098915219"/>
+		<nd ref="2636809292"/>
+		<nd ref="33200047"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Kwiatowa"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="4999203">
+		<nd ref="33200128"/>
+		<nd ref="2508849825"/>
+		<nd ref="2333147850"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Falęcka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="paving_stones"/>
+	</way>
+	<way id="5004042">
+		<nd ref="339977475"/>
+		<nd ref="1417004411"/>
+		<nd ref="2405949544"/>
+		<nd ref="2405949538"/>
+		<nd ref="3892912133"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5008297">
+		<nd ref="33310089"/>
+		<nd ref="3431408909"/>
+		<nd ref="3431408910"/>
+		<nd ref="2305347309"/>
+		<nd ref="3431408967"/>
+		<nd ref="2869588541"/>
+		<nd ref="2869588546"/>
+		<nd ref="2508889711"/>
+		<nd ref="33199595"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Wiśniowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5008372">
+		<nd ref="33311858"/>
+		<nd ref="2636809278"/>
+		<nd ref="33311857"/>
+		<nd ref="2851381740"/>
+		<nd ref="33311859"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Ligocka"/>
+	</way>
+	<way id="5011830">
+		<nd ref="32329828"/>
+		<nd ref="32329841"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5365166">
+		<nd ref="34469775"/>
+		<nd ref="4384968901"/>
+		<nd ref="4384968760"/>
+		<nd ref="4384968704"/>
+		<nd ref="4384968891"/>
+		<nd ref="33311858"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Ligocka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5365167">
+		<nd ref="33311858"/>
+		<nd ref="4384968895"/>
+		<nd ref="4384968715"/>
+		<nd ref="4384968788"/>
+		<nd ref="4384968702"/>
+		<nd ref="38432720"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Ligocka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5725406">
+		<nd ref="43283806"/>
+		<nd ref="43283801"/>
+		<nd ref="43283742"/>
+		<nd ref="43283741"/>
+		<nd ref="43283819"/>
+		<nd ref="4012949337"/>
+		<nd ref="2639964241"/>
+		<nd ref="43283815"/>
+		<nd ref="43283810"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Biały Kamień"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5725407">
+		<nd ref="43283810"/>
+		<nd ref="2639964243"/>
+		<nd ref="43283811"/>
+		<nd ref="4012949338"/>
+		<nd ref="43283732"/>
+		<nd ref="2639964240"/>
+		<nd ref="2639964239"/>
+		<nd ref="2639964236"/>
+		<nd ref="43283752"/>
+		<nd ref="2639964232"/>
+		<nd ref="43283748"/>
+		<nd ref="2639964227"/>
+		<nd ref="43283823"/>
+		<nd ref="43283831"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Biały Kamień"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5725410">
+		<nd ref="32600279"/>
+		<nd ref="2639964250"/>
+		<nd ref="43283810"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Biały Kamień"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5725412">
+		<nd ref="31906466"/>
+		<nd ref="4298957463"/>
+		<nd ref="308816092"/>
+		<nd ref="43283756"/>
+		<nd ref="3402852224"/>
+		<nd ref="43283761"/>
+		<nd ref="43283763"/>
+		<nd ref="2636666501"/>
+		<nd ref="2768605658"/>
+		<nd ref="43283768"/>
+		<nd ref="2768605657"/>
+		<nd ref="2636666492"/>
+		<nd ref="43283772"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Stanisława Żaryna"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5725414">
+		<nd ref="43283865"/>
+		<nd ref="3572866844"/>
+		<nd ref="3572866845"/>
+		<nd ref="3572866846"/>
+		<nd ref="43283886"/>
+		<tag k="highway" v="residential"/>
+	</way>
+	<way id="5725415">
+		<nd ref="43283848"/>
+		<nd ref="2639964219"/>
+		<nd ref="43283865"/>
+		<nd ref="43283832"/>
+		<nd ref="43283861"/>
+		<nd ref="43283836"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Jana Karola Chodkiewicza"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5725416">
+		<nd ref="43283853"/>
+		<nd ref="43283832"/>
+		<nd ref="3572866847"/>
+		<nd ref="3572866849"/>
+		<nd ref="3572866848"/>
+		<nd ref="43283888"/>
+		<tag k="highway" v="residential"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="5725425">
+		<nd ref="43283857"/>
+		<nd ref="2768575949"/>
+		<nd ref="2768575951"/>
+		<nd ref="43283864"/>
+		<nd ref="2768575959"/>
+		<nd ref="43283853"/>
+		<nd ref="2768575968"/>
+		<nd ref="43283870"/>
+		<tag k="highway" v="residential"/>
+	</way>
+	<way id="5725426">
+		<nd ref="43283784"/>
+		<nd ref="2768575980"/>
+		<nd ref="2768575996"/>
+		<nd ref="43283801"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Leona Danielewicza"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="6977359">
+		<nd ref="1619167251"/>
+		<nd ref="54094009"/>
+		<nd ref="54094014"/>
+		<nd ref="54094018"/>
+		<nd ref="54094022"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Uniwersytecka"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9366135"/>
+		<tag k="wikipedia" v="pl:Ulica Uniwersytecka w Warszawie"/>
+	</way>
+	<way id="6977364">
+		<nd ref="54091825"/>
+		<nd ref="4984166705"/>
+		<nd ref="54094037"/>
+		<nd ref="3620932027"/>
+		<nd ref="32606518"/>
+		<nd ref="54094040"/>
+		<nd ref="54094042"/>
+		<nd ref="104994364"/>
+		<nd ref="54094043"/>
+		<nd ref="3857813523"/>
+		<nd ref="54094018"/>
+		<nd ref="3857813487"/>
+		<nd ref="311764609"/>
+		<nd ref="3857813459"/>
+		<nd ref="3857813443"/>
+		<nd ref="54094084"/>
+		<nd ref="3857813423"/>
+		<nd ref="54094087"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Józefa Mianowskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="oneway:bicycle" v="no"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9365394"/>
+		<tag k="wikipedia" v="pl:Ulica Józefa Mianowskiego w Warszawie"/>
+	</way>
+	<way id="8114515">
+		<nd ref="60860583"/>
+		<nd ref="2677938007"/>
+		<nd ref="60860578"/>
+		<tag k="highway" v="residential"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Łęczycka"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9366355"/>
+		<tag k="wikipedia" v="pl:Ulica Łęczycka w Warszawie"/>
+	</way>
+	<way id="8114517">
+		<nd ref="60860579"/>
+		<nd ref="60860582"/>
+		<tag k="highway" v="residential"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Antoniego Solariego"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="23029529">
+		<nd ref="248457792"/>
+		<nd ref="282141255"/>
+		<nd ref="248457795"/>
+		<tag k="created_by" v="JOSM"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Prokuratorska"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="23039680">
+		<nd ref="43283870"/>
+		<nd ref="43283865"/>
+		<tag k="created_by" v="JOSM"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Jana Karola Chodkiewicza"/>
+	</way>
+	<way id="23041792">
+		<nd ref="248591682"/>
+		<nd ref="308767268"/>
+		<nd ref="248591683"/>
+		<tag k="created_by" v="JOSM"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="23041793">
+		<nd ref="248591685"/>
+		<nd ref="5401981717"/>
+		<nd ref="5401982231"/>
+		<nd ref="248591684"/>
+		<nd ref="308767262"/>
+		<nd ref="5401981715"/>
+		<nd ref="248591683"/>
+		<nd ref="248591686"/>
+		<tag k="highway" v="residential"/>
+	</way>
+	<way id="23444831">
+		<nd ref="31917362"/>
+		<nd ref="2405949551"/>
+		<nd ref="1306452188"/>
+		<nd ref="573211457"/>
+		<nd ref="32599717"/>
+		<nd ref="2990551699"/>
+		<nd ref="453007393"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Romana i Jana Podoskich"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="23490876">
+		<nd ref="254384582"/>
+		<nd ref="254513584"/>
+		<nd ref="1417004390"/>
+		<nd ref="253902418"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="57728567">
+		<nd ref="32329828"/>
+		<nd ref="308767316"/>
+		<nd ref="2768665005"/>
+		<nd ref="32573084"/>
+		<nd ref="2768665007"/>
+		<nd ref="308767325"/>
+		<nd ref="308767323"/>
+		<nd ref="715755580"/>
+		<nd ref="308767317"/>
+		<nd ref="715755698"/>
+		<nd ref="308767319"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="57728572">
+		<nd ref="308197306"/>
+		<nd ref="5024165152"/>
+		<nd ref="448040990"/>
+		<nd ref="5024165151"/>
+		<nd ref="32329829"/>
+		<tag k="bus:lanes" v="yes|yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|through|through|through"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="57728578">
+		<nd ref="32048667"/>
+		<nd ref="715755696"/>
+		<nd ref="715755543"/>
+		<nd ref="2889295918"/>
+		<nd ref="312053527"/>
+		<nd ref="2889295922"/>
+		<nd ref="32048669"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Mikołaja Reja"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="paving_stones"/>
+	</way>
+	<way id="57728580">
+		<nd ref="32329841"/>
+		<nd ref="715755650"/>
+		<nd ref="30901477"/>
+		<nd ref="30901474"/>
+		<nd ref="2768665002"/>
+		<nd ref="30901471"/>
+		<nd ref="213959230"/>
+		<nd ref="3890758955"/>
+		<nd ref="32049365"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="57728581">
+		<nd ref="32329832"/>
+		<nd ref="415948010"/>
+		<nd ref="4876449238"/>
+		<nd ref="2768677742"/>
+		<nd ref="32329829"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|through|through"/>
+	</way>
+	<way id="57728582">
+		<nd ref="32329832"/>
+		<nd ref="1293741204"/>
+		<nd ref="715755582"/>
+		<nd ref="715755595"/>
+		<nd ref="715755629"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="right|right"/>
+	</way>
+	<way id="57728583">
+		<nd ref="32329829"/>
+		<nd ref="5019388793"/>
+		<nd ref="715755629"/>
+		<tag k="agricultural" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="destination" v="Terespol"/>
+		<tag k="destination:colour:arrow" v="white"/>
+		<tag k="destination:colour:back" v="green"/>
+		<tag k="destination:colour:text" v="white"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="note" v="WAZNE: Trasa ma więcej węzłów niż skrzyżowań stąd klasa trunk"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="68585253">
+		<nd ref="32024532"/>
+		<nd ref="2511487066"/>
+		<nd ref="4298775709"/>
+		<nd ref="1332421928"/>
+		<nd ref="1332421939"/>
+		<nd ref="2636842619"/>
+		<nd ref="32024535"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Juliana Fałata"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="paving_stones"/>
+	</way>
+	<way id="81264244">
+		<nd ref="31917349"/>
+		<nd ref="31917352"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="100318946">
+		<nd ref="1159785549"/>
+		<nd ref="3444886627"/>
+		<nd ref="3444886628"/>
+		<nd ref="26195459"/>
+		<nd ref="2636929797"/>
+		<nd ref="254169115"/>
+		<nd ref="2454727857"/>
+		<nd ref="1159785554"/>
+		<nd ref="2636929799"/>
+		<nd ref="2636929800"/>
+		<nd ref="33629033"/>
+		<nd ref="343300135"/>
+		<nd ref="3656698631"/>
+		<nd ref="254169118"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="116931776">
+		<nd ref="31884818"/>
+		<nd ref="1317127849"/>
+		<nd ref="33311867"/>
+		<nd ref="33311868"/>
+		<nd ref="1317127856"/>
+		<nd ref="31718227"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="116931784">
+		<nd ref="31897796"/>
+		<nd ref="1317127876"/>
+		<nd ref="3037256817"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="117920750">
+		<nd ref="33311857"/>
+		<nd ref="3444922975"/>
+		<nd ref="2636809270"/>
+		<nd ref="2508849822"/>
+		<nd ref="1327268339"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Króżańska"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="119455225">
+		<nd ref="32024535"/>
+		<nd ref="824593724"/>
+		<nd ref="252952259"/>
+		<nd ref="824593736"/>
+		<nd ref="824611844"/>
+		<nd ref="824593743"/>
+		<nd ref="252952262"/>
+		<nd ref="33312074"/>
+		<nd ref="31718347"/>
+		<nd ref="824611847"/>
+		<nd ref="2636603715"/>
+		<nd ref="26118477"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Ludwika Narbutta"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="119512899">
+		<nd ref="1342658079"/>
+		<nd ref="3892895186"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through"/>
+	</way>
+	<way id="119512901">
+		<nd ref="1342658067"/>
+		<nd ref="33705073"/>
+		<nd ref="2885920181"/>
+		<nd ref="253902418"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="119744609">
+		<nd ref="32607799"/>
+		<nd ref="2492113720"/>
+		<nd ref="248457790"/>
+		<nd ref="60860577"/>
+		<nd ref="415948022"/>
+		<nd ref="32607802"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Ludwika Krzywickiego"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="119749680">
+		<nd ref="31897831"/>
+		<nd ref="3750848327"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="119769119">
+		<nd ref="339977475"/>
+		<nd ref="1344674263"/>
+		<nd ref="3750848337"/>
+		<nd ref="2405949571"/>
+		<nd ref="3750848340"/>
+		<nd ref="31897844"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="119769120">
+		<nd ref="339977472"/>
+		<nd ref="2405949488"/>
+		<nd ref="2405949496"/>
+		<nd ref="1344621802"/>
+		<nd ref="3892895184"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="119769121">
+		<nd ref="339977465"/>
+		<nd ref="2405949479"/>
+		<nd ref="2870000545"/>
+		<nd ref="1344674283"/>
+		<nd ref="31917349"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="right"/>
+	</way>
+	<way id="119769123">
+		<nd ref="31917351"/>
+		<nd ref="1344674287"/>
+		<nd ref="4533374346"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="125453587">
+		<nd ref="43283772"/>
+		<nd ref="2768576004"/>
+		<nd ref="43283776"/>
+		<nd ref="43283780"/>
+		<nd ref="2636666482"/>
+		<nd ref="43283784"/>
+		<nd ref="43283798"/>
+		<nd ref="3574834414"/>
+		<nd ref="43283875"/>
+		<nd ref="43283848"/>
+		<nd ref="43283806"/>
+		<nd ref="43283831"/>
+		<nd ref="2639964221"/>
+		<nd ref="2768623115"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Stanisława Żaryna"/>
+	</way>
+	<way id="125453588">
+		<nd ref="43283772"/>
+		<nd ref="1393410880"/>
+		<nd ref="1393410884"/>
+		<nd ref="1393410886"/>
+		<nd ref="1393410887"/>
+		<nd ref="1393410889"/>
+		<nd ref="1393410891"/>
+		<nd ref="1393410893"/>
+		<nd ref="4298957456"/>
+		<nd ref="1393410894"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Stanisława Żaryna"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="127568954">
+		<nd ref="1159785557"/>
+		<nd ref="1159785540"/>
+		<nd ref="3656698660"/>
+		<nd ref="1159785583"/>
+		<nd ref="1159785544"/>
+		<nd ref="2636929801"/>
+		<nd ref="1159785552"/>
+		<nd ref="2454727859"/>
+		<nd ref="1159785548"/>
+		<nd ref="3444886629"/>
+		<nd ref="1159785537"/>
+		<nd ref="2454727850"/>
+		<nd ref="1159785549"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="128177611">
+		<nd ref="1417004384"/>
+		<nd ref="1692838654"/>
+		<nd ref="1417004388"/>
+		<nd ref="2841473457"/>
+		<nd ref="2339280169"/>
+		<nd ref="254167364"/>
+		<nd ref="2841473467"/>
+		<nd ref="254167377"/>
+		<nd ref="2841473468"/>
+		<nd ref="1692983204"/>
+		<nd ref="2454720159"/>
+		<nd ref="254167379"/>
+		<nd ref="26195464"/>
+		<nd ref="2454732223"/>
+		<nd ref="254172546"/>
+		<nd ref="1159785549"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="motor_vehicle" v="yes"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="128177612">
+		<nd ref="1417004384"/>
+		<nd ref="3411278157"/>
+		<nd ref="2324032144"/>
+		<nd ref="1417004383"/>
+		<nd ref="1417004382"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="128177616">
+		<nd ref="339977472"/>
+		<nd ref="1344674289"/>
+		<nd ref="2870000544"/>
+		<nd ref="3750848347"/>
+		<nd ref="2405949473"/>
+		<nd ref="3750848346"/>
+		<nd ref="1342664406"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="128177617">
+		<nd ref="31917346"/>
+		<nd ref="3035843791"/>
+		<nd ref="316886382"/>
+		<nd ref="6550148060"/>
+		<nd ref="33182645"/>
+		<nd ref="5019359076"/>
+		<nd ref="5019359075"/>
+		<nd ref="31917333"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="130204420">
+		<nd ref="1344373827"/>
+		<nd ref="1354683579"/>
+		<nd ref="2393648047"/>
+		<nd ref="2656045367"/>
+		<nd ref="26118472"/>
+		<nd ref="26118695"/>
+		<nd ref="2405949597"/>
+		<nd ref="2405949589"/>
+		<nd ref="1342658079"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="130205413">
+		<nd ref="31718227"/>
+		<nd ref="2339275915"/>
+		<nd ref="33311863"/>
+		<nd ref="33311862"/>
+		<nd ref="4384968768"/>
+		<nd ref="1317127880"/>
+		<nd ref="31718178"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="130205416">
+		<nd ref="30901480"/>
+		<nd ref="308117295"/>
+		<nd ref="248457778"/>
+		<nd ref="32606514"/>
+		<nd ref="104994357"/>
+		<nd ref="32048673"/>
+		<nd ref="4349139098"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxweight" v="2.5"/>
+		<tag k="name" v="Raszyńska"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="134995457">
+		<nd ref="43283870"/>
+		<nd ref="3574814195"/>
+		<nd ref="43283875"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="motor_vehicle" v="private"/>
+	</way>
+	<way id="138212574">
+		<nd ref="27166998"/>
+		<nd ref="2405949506"/>
+		<nd ref="3352222728"/>
+		<nd ref="3374537224"/>
+		<tag k="cutting" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="incline" v="down"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="138212575">
+		<nd ref="31917328"/>
+		<nd ref="31917329"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|slight_right"/>
+	</way>
+	<way id="139975910">
+		<nd ref="31718121"/>
+		<nd ref="2636589942"/>
+		<nd ref="2636603712"/>
+		<nd ref="1317127847"/>
+		<nd ref="31718307"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Łowicka"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="139976318">
+		<nd ref="3039442546"/>
+		<nd ref="2508775276"/>
+		<nd ref="2511487073"/>
+		<nd ref="31718161"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Łowicka"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="144965539">
+		<nd ref="31897793"/>
+		<nd ref="1317127874"/>
+		<nd ref="33311866"/>
+		<nd ref="2765953332"/>
+		<nd ref="1317127860"/>
+		<nd ref="33311865"/>
+		<nd ref="3037256819"/>
+		<nd ref="1317127867"/>
+		<nd ref="31897796"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="162316254">
+		<nd ref="259644330"/>
+		<nd ref="3411278141"/>
+		<nd ref="2511478165"/>
+		<nd ref="927494210"/>
+		<nd ref="1417004375"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left;through|through;right"/>
+	</way>
+	<way id="169969776">
+		<nd ref="1811172315"/>
+		<nd ref="282141253"/>
+		<nd ref="248457787"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Sędziowska"/>
+		<tag k="oneway" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="175020998">
+		<nd ref="1344674318"/>
+		<nd ref="2405949485"/>
+		<nd ref="5026407994"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="179440603">
+		<nd ref="32329830"/>
+		<nd ref="448040989"/>
+		<nd ref="5019406473"/>
+		<nd ref="308767322"/>
+		<nd ref="2768677305"/>
+		<nd ref="715755657"/>
+		<nd ref="308197305"/>
+		<tag k="bus:lanes" v="yes|yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|yes|designated"/>
+		<tag k="turn:lanes" v="left|left;through|through|through"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="186089284">
+		<nd ref="1417004382"/>
+		<nd ref="2636888250"/>
+		<nd ref="2636888248"/>
+		<nd ref="1417004381"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="186089285">
+		<nd ref="1417004377"/>
+		<nd ref="319174280"/>
+		<nd ref="2324032133"/>
+		<nd ref="1417004384"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="187288190">
+		<nd ref="334558973"/>
+		<nd ref="317319282"/>
+		<nd ref="32024522"/>
+		<nd ref="32126043"/>
+		<nd ref="3385301274"/>
+		<nd ref="32024532"/>
+		<nd ref="34464543"/>
+		<nd ref="2511495313"/>
+		<nd ref="31718161"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Rakowiecka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="187288194">
+		<nd ref="31718161"/>
+		<nd ref="824655836"/>
+		<nd ref="2636661827"/>
+		<nd ref="31884832"/>
+		<nd ref="32126046"/>
+		<nd ref="2636661829"/>
+		<nd ref="3385300938"/>
+		<nd ref="32126045"/>
+		<nd ref="2339275939"/>
+		<nd ref="31884818"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Rakowiecka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="187288203">
+		<nd ref="31884821"/>
+		<nd ref="3402852225"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="merge_to_right|none"/>
+	</way>
+	<way id="187393994">
+		<nd ref="1417004375"/>
+		<nd ref="264587521"/>
+		<nd ref="2324032138"/>
+		<nd ref="32024525"/>
+		<nd ref="3037256818"/>
+		<nd ref="3037256816"/>
+		<nd ref="2324020436"/>
+		<nd ref="26118690"/>
+		<nd ref="2075909979"/>
+		<nd ref="2075909978"/>
+		<nd ref="31884818"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="187393996">
+		<nd ref="31718307"/>
+		<nd ref="824611857"/>
+		<nd ref="32024535"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Ludwika Narbutta"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="187394016">
+		<nd ref="1417004375"/>
+		<nd ref="1417004377"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left;through|through"/>
+	</way>
+	<way id="187536173">
+		<nd ref="1417004377"/>
+		<nd ref="1417004382"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="187536184">
+		<nd ref="1417004382"/>
+		<nd ref="4877985340"/>
+		<nd ref="7061617831"/>
+		<nd ref="254167517"/>
+		<nd ref="2441002836"/>
+		<nd ref="2441002842"/>
+		<nd ref="254167484"/>
+		<nd ref="31897800"/>
+		<nd ref="3037256794"/>
+		<nd ref="2397035801"/>
+		<nd ref="254384582"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="187536223">
+		<nd ref="1393410894"/>
+		<nd ref="31884821"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Stanisława Żaryna"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="187536265">
+		<nd ref="1393410894"/>
+		<nd ref="1776516260"/>
+		<nd ref="43283795"/>
+		<nd ref="3037257634"/>
+		<nd ref="2768605656"/>
+		<nd ref="31906464"/>
+		<nd ref="2684219694"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="191468207">
+		<nd ref="32049366"/>
+		<nd ref="32049368"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left|none|none"/>
+	</way>
+	<way id="191553324">
+		<nd ref="339977465"/>
+		<nd ref="33242040"/>
+		<nd ref="31897844"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|through"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="191553325">
+		<nd ref="31897844"/>
+		<nd ref="2405949583"/>
+		<nd ref="2405949587"/>
+		<nd ref="2405949599"/>
+		<nd ref="31897848"/>
+		<nd ref="2764101652"/>
+		<nd ref="316886404"/>
+		<nd ref="316886411"/>
+		<nd ref="2393648062"/>
+		<nd ref="1354683558"/>
+		<nd ref="1344373825"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="203601565">
+		<nd ref="27167006"/>
+		<nd ref="5026386463"/>
+		<tag k="agricultural" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="cutting" v="yes"/>
+		<tag k="destination" v="Terespol"/>
+		<tag k="destination:colour:arrow" v="white"/>
+		<tag k="destination:colour:back" v="green"/>
+		<tag k="destination:colour:text" v="white"/>
+		<tag k="highway" v="primary"/>
+		<tag k="incline" v="down"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="note" v="WAZNE: Trasa ma więcej węzłów niż skrzyżowań stąd klasa trunk"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="203601567">
+		<nd ref="1437918399"/>
+		<nd ref="2889212101"/>
+		<nd ref="27167008"/>
+		<nd ref="27167006"/>
+		<tag k="agricultural" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated|yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|slight_right|slight_right"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="203601573">
+		<nd ref="415948016"/>
+		<nd ref="5024155507"/>
+		<nd ref="415948015"/>
+		<nd ref="2768677231"/>
+		<nd ref="415948007"/>
+		<nd ref="4876449226"/>
+		<nd ref="30902333"/>
+		<tag k="bus:lanes" v="yes|yes|designated|yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lanes:psv" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated|yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|through|right"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="203601576">
+		<nd ref="27167029"/>
+		<nd ref="27167025"/>
+		<nd ref="415948016"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lanes:psv" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="203633223">
+		<nd ref="31917329"/>
+		<nd ref="2405949546"/>
+		<nd ref="2392213343"/>
+		<nd ref="2392213347"/>
+		<nd ref="5019359079"/>
+		<nd ref="1144523131"/>
+		<nd ref="2392213345"/>
+		<nd ref="5019359078"/>
+		<tag k="cutting" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="224493979">
+		<nd ref="2333147850"/>
+		<nd ref="2333147849"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Falęcka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="paving_stones"/>
+		<tag k="tunnel" v="yes"/>
+	</way>
+	<way id="224493980">
+		<nd ref="2333147849"/>
+		<nd ref="3444951475"/>
+		<nd ref="2508842656"/>
+		<nd ref="2508842654"/>
+		<nd ref="3444951462"/>
+		<nd ref="2509494935"/>
+		<nd ref="33200129"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Falęcka"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="237215311">
+		<nd ref="3881763625"/>
+		<nd ref="30901470"/>
+		<nd ref="32605669"/>
+		<nd ref="4201977660"/>
+		<nd ref="29274142"/>
+		<nd ref="3037257650"/>
+		<nd ref="3881492276"/>
+		<nd ref="5402230916"/>
+		<nd ref="248557741"/>
+		<nd ref="3163400089"/>
+		<nd ref="3881492275"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="237453996">
+		<nd ref="31917352"/>
+		<nd ref="2405949520"/>
+		<nd ref="339977468"/>
+		<nd ref="2405949522"/>
+		<nd ref="1344674231"/>
+		<nd ref="2405949505"/>
+		<nd ref="1344674318"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="237453999">
+		<nd ref="1342664406"/>
+		<nd ref="339977470"/>
+		<nd ref="1342658052"/>
+		<nd ref="1342658067"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="layer" v="1"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="237454003">
+		<nd ref="253902418"/>
+		<nd ref="26118696"/>
+		<nd ref="3037256793"/>
+		<nd ref="2519566020"/>
+		<nd ref="4913505751"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="237454010">
+		<nd ref="254384582"/>
+		<nd ref="213964607"/>
+		<nd ref="339977448"/>
+		<nd ref="31897831"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="242068287">
+		<nd ref="31917333"/>
+		<nd ref="5019379134"/>
+		<nd ref="32607802"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="242082823">
+		<nd ref="31897838"/>
+		<nd ref="1317127864"/>
+		<nd ref="4384968932"/>
+		<nd ref="3037256810"/>
+		<nd ref="4384968896"/>
+		<nd ref="34469775"/>
+		<nd ref="38432720"/>
+		<nd ref="31897841"/>
+		<nd ref="34469776"/>
+		<nd ref="1317127853"/>
+		<nd ref="31897793"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="242144594">
+		<nd ref="32605676"/>
+		<nd ref="3037256830"/>
+		<nd ref="3037257651"/>
+		<nd ref="32049235"/>
+		<nd ref="2451584695"/>
+		<nd ref="4201977661"/>
+		<nd ref="4037296026"/>
+		<nd ref="32605672"/>
+		<nd ref="32049236"/>
+		<nd ref="4174477606"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="243051478">
+		<nd ref="254451733"/>
+		<nd ref="3035843788"/>
+		<nd ref="5026373967"/>
+		<tag k="agricultural" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="262768374">
+		<nd ref="2684219695"/>
+		<nd ref="3402852220"/>
+		<nd ref="1776516263"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left;through|through|right"/>
+	</way>
+	<way id="272607927">
+		<nd ref="32600277"/>
+		<nd ref="3402852234"/>
+		<nd ref="3402852235"/>
+		<nd ref="3402852236"/>
+		<nd ref="3402852237"/>
+		<nd ref="3402852238"/>
+		<nd ref="3402852239"/>
+		<nd ref="3402852241"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="283085812">
+		<nd ref="339977465"/>
+		<nd ref="1342658082"/>
+		<nd ref="1342658069"/>
+		<nd ref="2405949494"/>
+		<nd ref="3892912358"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn" v="left"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="283086588">
+		<nd ref="1342658079"/>
+		<nd ref="1417004409"/>
+		<nd ref="3892913116"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="303249117">
+		<nd ref="1417004381"/>
+		<nd ref="1417004375"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="303249314">
+		<nd ref="1417004381"/>
+		<nd ref="1417004378"/>
+		<nd ref="2511478168"/>
+		<nd ref="4983691483"/>
+		<nd ref="259644330"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="306648818">
+		<nd ref="33199621"/>
+		<nd ref="4398297048"/>
+		<nd ref="4398297049"/>
+		<nd ref="2291715296"/>
+		<nd ref="2290909169"/>
+		<nd ref="2291715294"/>
+		<nd ref="4398297045"/>
+		<nd ref="4398297044"/>
+		<nd ref="4398297043"/>
+		<nd ref="4398297042"/>
+		<nd ref="33199624"/>
+		<nd ref="31897859"/>
+		<nd ref="2311070495"/>
+		<nd ref="2290909154"/>
+		<nd ref="4398297037"/>
+		<nd ref="4398297036"/>
+		<nd ref="33199626"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Ludwika Narbutta"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="331762058">
+		<nd ref="3037256817"/>
+		<nd ref="2339278835"/>
+		<nd ref="3411278133"/>
+		<nd ref="2324032132"/>
+		<nd ref="264587527"/>
+		<nd ref="1417004377"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="333175031">
+		<nd ref="1776516263"/>
+		<nd ref="5016104992"/>
+		<nd ref="4571636377"/>
+		<nd ref="4571636381"/>
+		<nd ref="31884821"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="333175032">
+		<nd ref="1776516263"/>
+		<nd ref="3402852221"/>
+		<nd ref="3402852222"/>
+		<nd ref="3402852223"/>
+		<nd ref="2511487062"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="339534730">
+		<nd ref="2511487062"/>
+		<nd ref="253038668"/>
+		<nd ref="334558973"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Rakowiecka"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="339898333">
+		<nd ref="3044616274"/>
+		<nd ref="2684219696"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="merge_to_right|none"/>
+	</way>
+	<way id="371518847">
+		<nd ref="3750848327"/>
+		<nd ref="2405949456"/>
+		<nd ref="339977471"/>
+		<nd ref="339977465"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="6"/>
+		<tag k="layer" v="1"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left|through|through|through|right"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="384793824">
+		<nd ref="32049372"/>
+		<nd ref="3881492277"/>
+		<nd ref="316628187"/>
+		<nd ref="560634846"/>
+		<nd ref="3890796864"/>
+		<nd ref="32049364"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Stefana Banacha"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left|right"/>
+		<tag k="wikidata" v="Q9365996"/>
+		<tag k="wikipedia" v="pl:Ulica Stefana Banacha w Warszawie"/>
+	</way>
+	<way id="384821647">
+		<nd ref="32049365"/>
+		<nd ref="32049364"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="384821648">
+		<nd ref="32600274"/>
+		<nd ref="560634851"/>
+		<nd ref="3890796868"/>
+		<nd ref="32049366"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left|none|none"/>
+	</way>
+	<way id="384821649">
+		<nd ref="32049364"/>
+		<nd ref="3890796867"/>
+		<nd ref="560634848"/>
+		<nd ref="3036126496"/>
+		<nd ref="3881763625"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="merge_to_left|none|none"/>
+	</way>
+	<way id="405604758">
+		<nd ref="3892895184"/>
+		<nd ref="5765362897"/>
+		<nd ref="3892895186"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn" v="left"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="405604761">
+		<nd ref="3892895184"/>
+		<nd ref="3892913116"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="406541784">
+		<nd ref="3892912133"/>
+		<nd ref="2405949508"/>
+		<nd ref="2405949500"/>
+		<nd ref="2764101640"/>
+		<nd ref="31917349"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="406541788">
+		<nd ref="3892912133"/>
+		<nd ref="3892912358"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="406541790">
+		<nd ref="3892913116"/>
+		<nd ref="2405949542"/>
+		<nd ref="1344621799"/>
+		<nd ref="31897844"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="406541793">
+		<nd ref="3892913116"/>
+		<nd ref="3892912133"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="406541798">
+		<nd ref="3892912358"/>
+		<nd ref="2405949502"/>
+		<nd ref="1344621805"/>
+		<nd ref="1342664406"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="406541800">
+		<nd ref="3892912358"/>
+		<nd ref="3892895184"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn" v="left"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="416728498">
+		<nd ref="4174477606"/>
+		<nd ref="32600274"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left|none|none"/>
+	</way>
+	<way id="429864802">
+		<nd ref="308197305"/>
+		<nd ref="415948013"/>
+		<nd ref="2768677318"/>
+		<nd ref="2768677745"/>
+		<nd ref="715755594"/>
+		<nd ref="30901479"/>
+		<tag k="bus:lanes" v="yes|yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Rondo Ryszarda Kaczorowskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:name" v="Uchwała Rady m.st.Warszawy nr XXX/771/2016"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|yes|designated"/>
+		<tag k="turn:lanes" v="left|left;through|through|through"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="429864803">
+		<nd ref="4290649774"/>
+		<nd ref="308197306"/>
+		<tag k="bus:lanes" v="yes|yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|yes|designated"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|through|through|through"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="437082173">
+		<nd ref="4349139098"/>
+		<nd ref="312053370"/>
+		<nd ref="4876449230"/>
+		<nd ref="415948012"/>
+		<nd ref="30901479"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxweight" v="2.5"/>
+		<tag k="name" v="Raszyńska"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:zone50"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left;through|none|none"/>
+	</way>
+	<way id="442657298">
+		<nd ref="1327268339"/>
+		<nd ref="33311855"/>
+		<nd ref="4384968756"/>
+		<nd ref="1317127881"/>
+		<nd ref="31897838"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lanes:forward" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Antoniego Józefa Madalińskiego"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes:backward" v="none|merge_to_left"/>
+	</way>
+	<way id="457147589">
+		<nd ref="4533374346"/>
+		<nd ref="2405949575"/>
+		<nd ref="339977475"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left|right"/>
+	</way>
+	<way id="461975097">
+		<nd ref="31718307"/>
+		<nd ref="1317127857"/>
+		<nd ref="3039442546"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Łowicka"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="473051312">
+		<nd ref="4983638823"/>
+		<nd ref="1891312365"/>
+		<nd ref="3037257662"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="none|merge_to_left"/>
+	</way>
+	<way id="473051313">
+		<nd ref="254173054"/>
+		<nd ref="1283403744"/>
+		<nd ref="4983691482"/>
+		<nd ref="4983691472"/>
+		<nd ref="3047941870"/>
+		<nd ref="3047941869"/>
+		<nd ref="259644330"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="473272998">
+		<nd ref="1855345844"/>
+		<nd ref="31917357"/>
+		<nd ref="5019359081"/>
+		<nd ref="5019359080"/>
+		<nd ref="31917354"/>
+		<nd ref="31917351"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through"/>
+	</way>
+	<way id="473275516">
+		<nd ref="4674214510"/>
+		<nd ref="254336302"/>
+		<nd ref="1855345844"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="none|through;right"/>
+	</way>
+	<way id="473275950">
+		<nd ref="31917363"/>
+		<nd ref="334559417"/>
+		<nd ref="5026403654"/>
+		<nd ref="266864003"/>
+		<nd ref="3323706628"/>
+		<nd ref="31917367"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left;through|through|through;right"/>
+	</way>
+	<way id="481168928">
+		<nd ref="33310089"/>
+		<nd ref="369521797"/>
+		<nd ref="2333062410"/>
+		<nd ref="2508871375"/>
+		<nd ref="33199606"/>
+		<nd ref="2333189684"/>
+		<nd ref="2508889699"/>
+		<nd ref="33199614"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Ludwika Narbutta"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="500250867">
+		<nd ref="4913505751"/>
+		<nd ref="1417004385"/>
+		<nd ref="7061617828"/>
+		<nd ref="4877985337"/>
+		<nd ref="1417004381"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left;through|through|through|right"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="505865016">
+		<nd ref="4956979316"/>
+		<nd ref="339977472"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|left|right"/>
+	</way>
+	<way id="509072439">
+		<nd ref="4983636320"/>
+		<nd ref="4983638822"/>
+		<nd ref="4983638821"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="509072440">
+		<nd ref="4672231881"/>
+		<nd ref="254173054"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lanes:backward" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes:backward" v="none|merge_to_left"/>
+	</way>
+	<way id="509072441">
+		<nd ref="4672227628"/>
+		<nd ref="4983638824"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lanes:backward" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes:backward" v="none|merge_to_left"/>
+	</way>
+	<way id="513501554">
+		<nd ref="5019359077"/>
+		<nd ref="31917331"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="cutting" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+	</way>
+	<way id="513501555">
+		<nd ref="5019359078"/>
+		<nd ref="1144523146"/>
+		<nd ref="1447938359"/>
+		<nd ref="5019359077"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="old_ref" v="2;E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+	</way>
+	<way id="513504765">
+		<nd ref="5019379133"/>
+		<nd ref="5019388794"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="513504766">
+		<nd ref="32607802"/>
+		<nd ref="5019379135"/>
+		<nd ref="5019379136"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through|merge_to_left"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="513504767">
+		<nd ref="5019379136"/>
+		<nd ref="3035843789"/>
+		<nd ref="5019379133"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="513506329">
+		<nd ref="5019388794"/>
+		<nd ref="32329830"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|through|through|right"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="514503950">
+		<nd ref="5026362264"/>
+		<nd ref="254451733"/>
+		<tag k="agricultural" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:lanes" v="yes|yes|designated|yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated|yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated|yes"/>
+		<tag k="turn:lanes" v="through|through|through|right"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="514503951">
+		<nd ref="715755629"/>
+		<nd ref="3035843818"/>
+		<nd ref="5026362264"/>
+		<tag k="agricultural" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:lanes" v="yes|yes|designated"/>
+		<tag k="destination" v="Terespol"/>
+		<tag k="destination:colour:arrow" v="white"/>
+		<tag k="destination:colour:back" v="green"/>
+		<tag k="destination:colour:text" v="white"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="514505624">
+		<nd ref="5026373967"/>
+		<nd ref="2888300685"/>
+		<nd ref="1437918399"/>
+		<tag k="agricultural" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="bus:lanes" v="yes|yes|designated|yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv:lanes" v="yes|yes|designated|yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="taxi:lanes" v="yes|yes|designated|yes"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="514507785">
+		<nd ref="5026386463"/>
+		<nd ref="27167004"/>
+		<tag k="agricultural" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="cutting" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="incline" v="down"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxgcweightrating" v="10"/>
+		<tag k="maxspeed" v="80"/>
+		<tag k="maxweight" v="10"/>
+		<tag k="name" v="Wawelska"/>
+		<tag k="note" v="WAZNE: Trasa ma więcej węzłów niż skrzyżowań stąd klasa trunk"/>
+		<tag k="old_ref" v="2; E 30"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxgcweightrating" v="PL:sign_B-5"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="wikidata" v="Q9366161"/>
+		<tag k="wikipedia" v="pl:Ulica Wawelska w Warszawie"/>
+	</way>
+	<way id="514510584">
+		<nd ref="5026407994"/>
+		<nd ref="31917363"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Aleja Armii Ludowej"/>
+		<tag k="name:pl" v="Aleja Armii Ludowej"/>
+		<tag k="old_name" v="Lecha Kaczyńskiego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source:maxspeed" v="sign"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="522533964">
+		<nd ref="3037257662"/>
+		<nd ref="4983638824"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="placement" v="transition"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="none|merge_to_left"/>
+	</way>
+	<way id="522533965">
+		<nd ref="4672231881"/>
+		<nd ref="4983638823"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="placement" v="transition"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="none|merge_to_left"/>
+	</way>
+	<way id="522533966">
+		<nd ref="4983638821"/>
+		<nd ref="4672231881"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="placement" v="transition"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="522533967">
+		<nd ref="4983638824"/>
+		<nd ref="4983636320"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="maxspeed:conditional" v="60 @ (23:00-05:00)"/>
+		<tag k="name" v="Stefana Batorego"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="placement" v="transition"/>
+		<tag k="source:maxspeed" v="PL:urban"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="534771642">
+		<nd ref="308767319"/>
+		<nd ref="5019406474"/>
+		<nd ref="32329832"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="5"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|through|through|right|right"/>
+	</way>
+	<way id="604466614">
+		<nd ref="31906466"/>
+		<nd ref="1393410894"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="604466615">
+		<nd ref="3402852225"/>
+		<nd ref="254513588"/>
+		<nd ref="4878457125"/>
+		<nd ref="3044616274"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Świętego Andrzeja Boboli"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="merge_to_right|none"/>
+	</way>
+	<way id="622493894">
+		<nd ref="32024600"/>
+		<nd ref="254173051"/>
+		<nd ref="4983636316"/>
+		<nd ref="4983636319"/>
+		<nd ref="4983636318"/>
+		<nd ref="4012900509"/>
+		<nd ref="4983636317"/>
+		<nd ref="2636963905"/>
+		<nd ref="4983636315"/>
+		<nd ref="2636963907"/>
+		<nd ref="4012900510"/>
+		<nd ref="34464541"/>
+		<nd ref="32024604"/>
+		<nd ref="4983636314"/>
+		<nd ref="32024606"/>
+		<nd ref="4983636313"/>
+		<nd ref="318473087"/>
+		<nd ref="32024620"/>
+		<nd ref="318473088"/>
+		<nd ref="2636963893"/>
+		<nd ref="32024609"/>
+		<nd ref="4012972918"/>
+		<nd ref="32024613"/>
+		<nd ref="4012974402"/>
+		<nd ref="317319278"/>
+		<nd ref="317829731"/>
+		<nd ref="2511495308"/>
+		<nd ref="4298701137"/>
+		<nd ref="32024618"/>
+		<nd ref="32024522"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="1"/>
+		<tag k="maxspeed" v="30"/>
+		<tag k="name" v="Giordana Bruna"/>
+		<tag k="old_name" v="Juliana Bruna"/>
+		<tag k="parking:lane:left" v="parallel"/>
+		<tag k="parking:lane:right" v="perpendicular"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="622493895">
+		<nd ref="1317133131"/>
+		<nd ref="824655828"/>
+		<nd ref="32024600"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Giordana Bruna"/>
+		<tag k="old_name" v="Juliana Bruna"/>
+		<tag k="parking:lane:left" v="parallel"/>
+		<tag k="parking:lane:right" v="perpendicular"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="623111416">
+		<nd ref="4983691477"/>
+		<nd ref="4983691476"/>
+		<nd ref="32024579"/>
+		<nd ref="1317133131"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Giordana Bruna"/>
+		<tag k="old_name" v="Juliana Bruna"/>
+		<tag k="parking:lane:left" v="parallel"/>
+		<tag k="parking:lane:right" v="perpendicular"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="647425811">
+		<nd ref="32329829"/>
+		<nd ref="2768677744"/>
+		<nd ref="32329830"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Franciszka Żwirki i Stanisława Wigury"/>
+		<tag k="old_ref" v="634"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="Żwirki i Wigury"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="left|through|through"/>
+	</way>
+	<way id="747909983">
+		<nd ref="3892895186"/>
+		<nd ref="31917346"/>
+		<tag k="highway" v="secondary_link"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxweight" v="5"/>
+		<tag k="old_name" v="Topolowa"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn" v="left"/>
+		<tag k="wikidata" v="Q9144933"/>
+		<tag k="wikipedia" v="pl:Aleja Niepodległości w Warszawie"/>
+	</way>
+	<way id="747909984">
+		<nd ref="3892895186"/>
+		<nd ref="1342664406"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="layer" v="1"/>
+		<tag k="name" v="Aleja Niepodległości"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="turn:lanes" v="through|through"/>
+	</way>
+</osm>

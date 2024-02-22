@@ -6,7 +6,9 @@ Hours: 10:00-12:00, 13:00-14:30 + open Q&A
 
 **Location**:
 	James Hutton Institute
+
 	Aberdeen
+
 	Scotland
 
 
@@ -54,7 +56,7 @@ This course does not require the participants to have prior detailed knowledge o
 
 
 
-<tr><td><b>Day 2 (Wednesday, Feb 28, 2024)</b></td><td><a href="5_Scaling_out_Computations/">5_Scaling_out_Computations</a><br>
+<tr><td><b>Day 3 (Wednesday, Feb 28, 2024)</b></td><td><a href="5_Scaling_out_Computations/">5_Scaling_out_Computations</a><br>
 <ul>
 <li> Single Instruction Multiple Data (SIMD)
 <li> Green threading

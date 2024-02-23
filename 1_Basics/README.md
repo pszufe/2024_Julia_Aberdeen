@@ -35,14 +35,14 @@ Julia is a new Open Source language designed for science and data analysis. With
         ```
 
        Additionally, you need to make Julia to work with Python. By default Julia installs its own Python.
-       However, you can attach your Julia to an external Python installation (OPTIONAL):
+       However, you can attach your Julia to an external Python installation (THIS STEP IS OPTIONAL):
        ```
         ENV["PYTHON"]="C:\\ProgramData\\Anaconda3\\python.exe"
         using Pkg
         pkg"build PyCall"
        ```
 
-       Additionally you need Jupyter notebook. An external installation can be used or you can add one to the Python
+       Additionally, you need Jupyter notebook along with two other Python packages. An external installation could be used but I recommend just to add it to the Python
        configured with Julia:
         ```
         using Conda
